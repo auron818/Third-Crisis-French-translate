@@ -1,0 +1,5156 @@
+{
+  "Dialogues": [
+    {
+      "name": "ResourceTest_Dialogue_1",
+      "guid": "cbca796e49fe5af4da74381fe1b21814",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "Okay.",
+          "text": "D'accord.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "ResourceTest_Dialogue_2",
+      "guid": "19ef63316d1e28a44953a80041c03450",
+      "Lines": [
+        {
+          "LineId": "line_5",
+          "originalText": "Okay.",
+          "text": "D'accord.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "ResourceTest_Dialogue_3",
+      "guid": "7fcb5e503910eaf45ae53ca2892e1ce7",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Okay.",
+          "text": "D'accord.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Editor2TestDialogue",
+      "guid": "184ad99cbebea364092bfad6c21295fe",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "CGSetup_FloriaBentOver_TestDialogue",
+      "guid": "1f25802521becc245b6dfb563822ecb4",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "CGSetupTest_RidaMinaBJ",
+      "guid": "8caf8670e33433c42b4832d48b594bbe",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "CGSetupTest_SocialEating",
+      "guid": "3e616b5031f2ff04aababc337c6e7d63",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "CGTest_Frontal_Blowjob",
+      "guid": "2871c16dcdff7674eabe5451105e967c",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "CGSetupTest_JxK_EatingOut",
+      "guid": "f5b0fb0cc2029294a9a63892f7a7b52a",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "CGSetupTest_JxK_EatingOut",
+      "guid": "a310b888a6fc56f4fbc93483b203a535",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "EvelyTestDialogue",
+      "guid": "6818922c7356a4e43b5d4642d8b667bd",
+      "Lines": [
+        {
+          "LineId": "line_2",
+          "originalText": "Idle\n",
+          "text": "Ralentí\n",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "Annoyed",
+          "text": "Agacée",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "Wink",
+          "text": "Clin d'œil",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "Happy",
+          "text": "Heureuse",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "Angry\n",
+          "text": "En colère\n",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "Ehehe",
+          "text": "Ehehe",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "Surprised",
+          "text": "Surprise",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "Confident",
+          "text": "Confiante",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "Shy",
+          "text": "Timide",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatFlogger_DroppedFlogger",
+      "guid": "11158927dc33a5f439dd62f35ba7d7c5",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "What's this? That woman dropped her flogger...",
+          "text": "Qu'est-ce que c'est ? Cette femme a laissé tomber son fouet...",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatFlogger_OnAttack_1",
+      "guid": "8f79f34b80000314980ad3509214f15d",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I'm gonna whip that ass into shape~!",
+          "text": "Je vais te mettre au pas !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatFlogger_OnAttack_2",
+      "guid": "1da232c8331d4194ebb2b5b02c6e7260",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Bend over, bitch~!",
+          "text": "Penche-toi, salope~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatFlogger_OnAttack_3",
+      "guid": "99a26df2659ce424c8b19490583c6ca1",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Let's get that ass nice and red~!",
+          "text": "Rendons ce cul bien rouge~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatFlogger_OnSnare_1",
+      "guid": "5809d482c33a07c488b71afcd773c68b",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Wrap them up, my darlings~",
+          "text": "Enveloppez-les, mes chéris~",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatFlogger_OnSnare_2",
+      "guid": "3de61cc7f0b35be49874529bde88a777",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "You're not going anywhere, they'll make sure of that~",
+          "text": "Tu n'iras nulle part, ils s'en assureront~",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatFlogger_OnSnare_3",
+      "guid": "0d6de052639ca254ea970d5ce8172f64",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "You ready for some forced consentacles~? Too bad!",
+          "text": "Prêt pour des consentacles forcés~ ? Dommage !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "PH_LumberRatHealSlut_FemaleTargetHeal",
+      "guid": "7c92f8756ceca2348a1f1b25f4e7365e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>Sinking to her knees, the woman starts to dig into her ally's pants and ravenously lap at their pussy. Both of them start moaning out in unison while her teammate strokes their fingers through her hair.</i>",
+          "text": "<i>S'agenouillant, la femme commence à fouiller dans le pantalon de son alliée et à lécher goulûment leur chatte. Toutes deux commencent à gémir à l'unisson tandis que son coéquipier lui caresse les cheveux.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Mmm~ Delicious!",
+          "text": "Mmm~ Délicieux !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "PH_LumberRatHealSlut_MaleTargetHeal",
+      "guid": "19a867bdec482384b88649e93082d49d",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>With a soft groan in anticipation, the woman falls to her knees and digs into her teammate's pants for his throbbing cock. As soon as it's free, she takes it quickly into her mouth, suckling needily.</i>",
+          "text": "<i>Avec un léger gémissement d'anticipation, la femme tombe à genoux et fouille dans le pantalon de son coéquipier pour son pénis palpitant. Dès qu'il est libre, elle le prend rapidement dans sa bouche, le suçant avec avidité.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Mmmm~!",
+          "text": "Mmmm~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "PH_LumberRatHealSlut_MovingToDamagedFriendly_1",
+      "guid": "1e83cd08a9eafe14593f078abb0a6086",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Healslut cumming in~!",
+          "text": "Healslut arrive~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "PH_LumberRatHealSlut_MovingToDamagedFriendly_2",
+      "guid": "666be4c0fa179784fa698f5095c9e1dd",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Heals are cumming~!",
+          "text": "Les soins arrivent~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "PH_LumberRatHealSlut_MovingToDamagedFriendly_3",
+      "guid": "365b7359ef935cd4fb4717ffe403680f",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Cumming to heal~!",
+          "text": "Je viens soigner~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "PH_LumberRatHealSlut_MovingToDamagedFriendly_4",
+      "guid": "d918653161c281b4bb29f3cfb5cbd30b",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Here I cum~!",
+          "text": "J'arrive~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "PH_LumberRatHealSlut_MovingToDamagedFriendly_5",
+      "guid": "7e7055deb23a5884e83f2419d122e82f",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "On my way, don't cum without me~!",
+          "text": "En chemin, ne jouis pas sans moi~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "PH_LumberRatHealSlut_MovingToDamagedFriendly_6",
+      "guid": "ef1d622b00489be48b60d50b932cd961",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Haaah... Need to heal~",
+          "text": "Haaah... Besoin de soigner~",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "PH_LumberRatHealSlut_SelfHeal",
+      "guid": "444bb9ca1cb460e47ac2c1a38b22ecc9",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>Without a hint of shame, the woman reaches down and starts to rub her dripping pussy. Her moans are sharp and loud as she quickly touches herself to completion in front of everyone.</i>",
+          "text": "<i>Sans la moindre honte, la femme se penche et commence à frotter sa chatte dégoulinante. Ses gémissements sont aigus et forts alors qu'elle se touche rapidement jusqu'à l'orgasme devant tout le monde.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Haaah~ Yeess~",
+          "text": "Haaah~ Oui~",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_AttackTarget_1",
+      "guid": "39b4a4e912d171f4c8d61f1efb80f054",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "AAh~! Cock on tits!! Yes!! Feel good!!",
+          "text": "AAh~! Bite sur les seins !! Oui !! Ça fait du bien !!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>The crazed man reaches down to detach his own cock, lashing out!</i>",
+          "text": "<i>L'homme enragé se penche pour détacher son propre pénis, en fouettant !</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_AttackTarget_2",
+      "guid": "2f41716a7e1e78744b54202a2c7f83a6",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Yes!! YES!! Cock likes!!",
+          "text": "Oui !! OUI !! Le pénis aime ça !!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>Babbling crazed words, the man detaches his own cock and attacks!</i>",
+          "text": "<i>Balbutiant des mots fous, l'homme détache son propre pénis et attaque !</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_AttackTarget_3",
+      "guid": "d644604d2bb928a4699cb59876ccf8b9",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Cock! Tits! Cock on tits!! YES!",
+          "text": "Pénis ! Seins ! Pénis sur les seins !! OUI !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>The man detaches his own cock, holding it in his hand and striking with it!</i>",
+          "text": "<i>L'homme détache son propre pénis, le tenant dans sa main et frappant avec !</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_MovingToAttackTarget_1",
+      "guid": "4f6e1cbd51cfffb4eae9f33e58189af7",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Tits?! Tits!! Must slap cock on tits!!",
+          "text": "Seins ?! Seins !! Il faut claquer le pénis sur les seins !!",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_MovingToAttackTarget_2",
+      "guid": "44bebcea0ffd20f4282daab5164efe22",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Cock wants!! Cock needs!!",
+          "text": "Le pénis veut !! Le pénis a besoin !!",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_MovingToAttackTarget_3",
+      "guid": "cb75f5d4e6a8f5d4faad6d056b58b4d4",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Tits!! Slap cock on tits!!! Yesss!",
+          "text": "Seins !! Claquez le pénis sur les seins !!! Ouiii !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_MovingToShredTarget_1",
+      "guid": "bb560a07e347e8a4089a5a25ff91f7a2",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Tits!! Need tits! Love tits! Smell tits! MMM!! I SHRED clothes!!!",
+          "text": "Seins !! Besoin de seins ! J'adore les seins ! Je sens les seins ! MMM !! JE DÉCHIQUETTE les vêtements !!!",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_MovingToShredTarget_2",
+      "guid": "bf47b0ef39b5da94b80b8cce329c5610",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Want tits!! Want shred clothes!!",
+          "text": "Je veux des seins !! Je veux déchirer les vêtements !!",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_MovingToShredTarget_3",
+      "guid": "43ff565e0a258a04cafc8979028c9ba4",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I smell tits!?! I shred clothes!!",
+          "text": "Je sens des seins !?! Je déchiquette les vêtements !!",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_NoGirls",
+      "guid": "941b90d2610e88b458896e7b24af3d76",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Noo! Where girls?! Where tits?!",
+          "text": "Non ! Où sont les filles ?! Où sont les seins ?!",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_ShredTarget_1",
+      "guid": "acf17ee9a682f2649b70ec0871d543ec",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "YES! YES! Shred! Tear! Rip! Tits!!",
+          "text": "OUI ! OUI ! Déchiqueter ! Déchirer ! Arracher ! Seins !!",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_ShredTarget_2",
+      "guid": "605d877e970348f499a7dabb125eb6e2",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Rip! Tear! Shred! Yesss!",
+          "text": "Déchirer ! Déchirer ! Déchiqueter ! Ouiii !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatShredder_ShredTarget_3",
+      "guid": "e132c2677a25d374f9dad39f7fb5799e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Clothes bad! Shred clothes! Want tits!!",
+          "text": "Vêtements mauvais ! Déchiqueter les vêtements ! Je veux des seins !!",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatSquirter_OnSquirt_Long",
+      "guid": "da7af4e66d8f8c44c8adc5c060d2dd6b",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Aah~ Mmmm, here it comes~!",
+          "text": "Aah~ Mmmm, ça arrive~ !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>The woman starts furiously rubbing her pussy, gasping and moaning out in pleasure.</i>",
+          "text": "<i>La femme commence à frotter furieusement sa chatte, haletant et gémissant de plaisir.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "A-Ah~ Oooh yess~ Gonna cum all over that cute little face... Haah...",
+          "text": "A-Ah~ Oooh oui~ Je vais jouir sur ce joli petit visage... Haah...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "Mmm... Come on... Almost theere~!",
+          "text": "Mmm... Allez... Presque là~ !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "Erm... Are you having trouble over there?",
+          "text": "Euh... Vous avez des problèmes là-bas ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "So close... Almost... H-Hah...",
+          "text": "Si près... Presque... H-Hah...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "N-No! I lost it!",
+          "text": "N-Non ! Je l'ai perdu !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "Take your time.",
+          "text": "Prenez votre temps.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "A-Ah! It's back! I'm gonna!",
+          "text": "A-Ah ! C'est de retour ! Je vais !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "G-Gonna~",
+          "text": "Je vais~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "Gonna!",
+          "text": "Je vais !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "H-Haaaaaaaaaah~",
+          "text": "H-Haaaaaaaaaah~",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatSquirter_OnSquirt_Short_1",
+      "guid": "b306064883ee8e1479f97984857e1b85",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Here it comes~! Aah~!",
+          "text": "Ça arrive~ ! Aah~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatSquirter_OnSquirt_Short_2",
+      "guid": "feedb64300312e843aeff1d7b1e9b0f7",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Haah... Gonna cover that face~!",
+          "text": "Haah... Je vais couvrir ce visage~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "LumberRatSquirter_OnSquirt_Short_3",
+      "guid": "e68e6dbaa19a16240a1b9d8d8d9ca81e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "So fucking hot... Haah~ Gonna cum~!",
+          "text": "Tellement putain de chaud... Haah~ Je vais jouir~ !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "HQ",
+      "guid": "6bdfd13f9d71e6f44b29c29b019d8c4c",
+      "Lines": [
+        {
+          "LineId": "Idle",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "Happy",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "Angry",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "Shocked",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "Idle_2",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "HQ_pretimeskip",
+      "guid": "698df9fd407bc5740a46cba4bbf9c708",
+      "Lines": [
+        {
+          "LineId": "Idle",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "Flashback",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "Happy",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "Annoyed",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "Shocked",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "Questioning",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Serif_Default",
+      "guid": "2d44ef1c53ef50148a116557cf5e749c",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "#Syn_SerifPuns#",
+          "text": "#Syn_SerifPuns#",
+          "Choices": [
+            {
+              "choiceId": "CarcenWitch",
+              "originalText": "Ask about getting a skeleton bone.",
+              "text": "Demander un os de squelette."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dialogue",
+      "guid": "80b88b9259a1d2e49943fe04aee75059",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "This is a test!",
+          "text": "Ceci est un test !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "You look great!",
+          "text": "Tu es superbe !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "Thanks!!",
+          "text": "Merci !!",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Drunk_Dialogue",
+      "guid": "c3eb178e6e886e54c8cbfc9b690df1b2",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Man... Feeling really tipsy right now.",
+          "text": "Mec... Je me sens vraiment pompette là.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Drunk_Dialogue_Finish",
+      "guid": "1cc9d83a0ddd77048b2234a33957fbd7",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Phew... Got a hell of a headache from all that damn drinking.",
+          "text": "Ouf... J'ai un sacré mal de tête à cause de toute cette putain de boisson.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "AFKDialogue",
+      "guid": "93ce65e5d725dbc41a808a6b20215f4f",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I'm AFK right now! Brb~",
+          "text": "Je suis AFK en ce moment ! Je reviens~",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "FlashTits1",
+      "guid": "a084123323ff39048bafdfb76bf57e44",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I reluctantly zip down my jacket, revealing my chest to my enemies. <i> I can't believe I'm doing this.. </i> I think to myself, my cheeks a blistering bright red.",
+          "text": "Je descends ma veste à contrecœur, révélant ma poitrine à mes ennemis. <i> Je n'arrive pas à croire que je fais ça.. </i> Je pense à moi-même, mes joues d'un rouge vif et brûlant.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "FlashTits2",
+      "guid": "5482fa3f4c79a764bb3e047754673f74",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I unzip my jacket, my cheeks red in embarassment as I give my chest a light bounce, giving my enemies a great view of my rack. \"What do you think of these, loves?\"",
+          "text": "Je dézippe ma veste, mes joues rouges de honte alors que je fais légèrement rebondir ma poitrine, offrant à mes ennemis une belle vue de mes seins. « Qu'en pensez-vous, mes amours ? »",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "FlashTits3",
+      "guid": "67159fd30284e194fbaaf7d1b0282850",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I bite my lip as I unzip my jacket, running my fingers through my hair with one hand as I cup one of my breasts with the other. \"Like what you see~?\"",
+          "text": "Je me mords la lèvre en dézippant ma veste, passant mes doigts dans mes cheveux d'une main et caressant l'un de mes seins de l'autre. « Tu aimes ce que tu vois~ ? »",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "FlashTits4",
+      "guid": "e1032fd4f1f959644b37ae8d70b10624",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I smile lightly as I unzip my jacket, winking seductively at my enemies. \"Mmm~\" I moan gently, something inside me purring in delight at exposing myself like this.",
+          "text": "Je souris légèrement en dézippant ma veste, clignant de l'œil séductivement à mes ennemis. « Mmm~ » Je gémis doucement, quelque chose en moi ronronnant de plaisir à m'exposer ainsi.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "FlashTits5",
+      "guid": "8e40110454038444a8d71cd8899e2c9e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I nearly tear my jacket off of me in desire, wanting to be naked in front of anyone who can see me. \"Mmm, please fuck my tits~\" I moan whorishly, my face and chest red in arousal.",
+          "text": "Je déchire presque ma veste de désir, voulant être nue devant quiconque peut me voir. « Mmm, s'il te plaît, baise mes seins~ » Je gémis de manière putassière, mon visage et ma poitrine rouges d'excitation.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Masturbate1",
+      "guid": "b076b54e48dd34146b9b80d59f17d597",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I slip my hand down my pants, turning away from my enemies in slight embarassment as I toy with myself in need. \"Mm..\" I can't help but moan, unable to cage in my soft pleasured sounds.",
+          "text": "Je glisse ma main dans mon pantalon, me détournant de mes ennemis avec une légère gêne alors que je me caresse avec besoin. « Mm.. » Je ne peux m'empêcher de gémir, incapable de retenir mes doux sons de plaisir.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Masturbate2",
+      "guid": "e18490f848896b94982d14431b538b10",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I tug my pants down slightly, letting out a soft moan as I slip my fingers into my slit, rubbing and toying with myself. Knowing that my enemies are watching me makes me feel hot inside, my fingers quickly getting drenched.",
+          "text": "Je tire légèrement mon pantalon vers le bas, laissant échapper un doux gémissement alors que je glisse mes doigts dans ma fente, me frottant et me caressant. Savoir que mes ennemis me regardent me fait me sentir chaude à l'intérieur, mes doigts devenant rapidement trempés.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Masturbate3",
+      "guid": "c3b1632ad144ab34e941a882bfa57fa8",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "I slip my pants down to my thighs quickly, wanting my enemies to see me finger fuck my shaved pussy. \"Ooh~ I need to be filled~\" I moan out like a slut, loving how they stare as I toy with myself, my free hand squeezing one of my breasts.",
+          "text": "Je glisse rapidement mon pantalon jusqu'à mes cuisses, voulant que mes ennemis me voient me masturber ma chatte rasée. « Ooh~ J'ai besoin d'être remplie~ » Je gémis comme une salope, adorant la façon dont ils me regardent pendant que je me caresse, ma main libre serrant l'un de mes seins.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Apl_Bra_Equipped",
+      "guid": "f52a3d994f322d94492913e0d03b1481",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(Gotta keep the girls nice and perky after all!)</i>",
+          "text": "<i>(Il faut bien garder les filles jolies et coquettes après tout !)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Apl_Bra_UnEquipped",
+      "guid": "439a4840a3eeb4342958c6e9bc801cf7",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(It's just a little hot... That's why I'm taking it off...)</i>",
+          "text": "<i>(Il fait juste un peu chaud... C'est pour ça que je l'enlève...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(Right...?)</i>",
+          "text": "<i>(N'est-ce pas...?)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Prologue_TryRemoveJacket",
+      "guid": "d037a862a50ae4949885ef5f9d9c6d9b",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(I shouldn't remove that quite yet! Gotta stay in top fighting form!)</i>",
+          "text": "<i>(Je ne devrais pas encore l'enlever ! Je dois rester en pleine forme de combat !)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "TentacleFlogger_SelfUse",
+      "guid": "503e104f89104d842bbf1fb8a290e658",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>With a gentle sigh in anticipation, I tug my clothes off and bring the flogger close to my crotch. The writhing tentacles react almost immediately, wrapping my body up and caressing me with their soft artificial flesh.</i>",
+          "text": "<i>Avec un doux soupir d'anticipation, j'enlève mes vêtements et approche le fouet de mon entrejambe. Les tentacules tordus réagissent presque immédiatement, enveloppant mon corps et me caressant avec leur douce chair artificielle.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Hooh... Fuck...",
+          "text": "Hooh... Putain...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "Damn, that felt good... I needed that...",
+          "text": "Putain, ça fait du bien... J'en avais besoin...",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Vibrator_Insert",
+      "guid": "06ba721785937f94a85b058c38662b08",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<color=perversion><i>(Nghh...)</i></color>",
+          "text": "<color=perversion><i>(Nghh...)</i></color>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Generic_NoVibrosuit",
+      "guid": "f2d2ea2d3fc19cd45a73ad942c06fd73",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(I think I should put on my vibrosuit and jacket before continuing...)</i>",
+          "text": "<i>(Je pense que je devrais mettre ma combinaison vibrante et ma veste avant de continuer...)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Generic_TooDrunk",
+      "guid": "41509ed332d84ac4e8eeedc6d3686ab4",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Not so sure about doing that when I'm so fucking tipsy!",
+          "text": "Pas si sûr de faire ça quand je suis si putain de pompette !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "BedAdvanceTime",
+      "guid": "83a755bd4f996544f9191bd7e27ec489",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Do you want to go to sleep for six hours?",
+          "text": "Voulez-vous dormir six heures ?",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "ItemPickup",
+      "guid": "a65e394449f818e49bc02cedae855e71",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>You acquired #ItemName#!</i>",
+          "text": "<i>Vous avez acquis #NomDeL'Objet# !</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "ItemTaken",
+      "guid": "f8a2311ddda36b24c9d780d668b0c287",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>You lost #ItemName#!</i>",
+          "text": "<i>Vous avez perdu #NomDeL'Objet# !</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_TownhallAd_PostWork",
+      "guid": "e105afe7a28ad674eb362b85d14791c7",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(\"They want your cream in their pie. Visit the townhall today.\")</i>",
+          "text": "<i>(« Ils veulent votre crème dans leur tarte. Visitez l'hôtel de ville aujourd'hui. »)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(It's... <color=perversion>quite the place...</color>)</i>",
+          "text": "<i>(C'est... <color=perversion>tout un endroit...</color>)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_TownhallAd_PostWork2",
+      "guid": "c96aaa78ae2563045ad7ce97eaa6941e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(\"They want your cream in their pie. Visit the townhall today.\")</i>",
+          "text": "<i>(« Ils veulent votre crème dans leur tarte. Visitez l'hôtel de ville aujourd'hui. »)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(<color=perversion>The place can be quite <b>fun</b>, hehe.. Not just for the men spending their <b>money</b>...</color>)</i>",
+          "text": "<i>(<color=perversion>L'endroit peut être très <b>amusant</b>, hehe.. Pas seulement pour les hommes qui dépensent leur <b>argent</b>...</color>)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_TownhallAd_PostWork3",
+      "guid": "c02ec91a2f2da5d4c823e10efc981f58",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(\"They want your cream in their pie. Visit the townhall today.\")</i>",
+          "text": "<i>(« Ils veulent votre crème dans leur tarte. Visitez l'hôtel de ville aujourd'hui. »)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(<color=perversion>They do.. But it's all going to go to <b>me</b>... They'll see, ehehe..</color>)</i>",
+          "text": "<i>(<color=perversion>Ils le font.. Mais tout va aller à <b>moi</b>... Ils verront, ehehe..</color>)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<i>(<color=perversion>I deserve it more than <b>them</b> anyways, ehehe..</color>)</i>",
+          "text": "<i>(<color=perversion>Je le mérite plus qu'<b>eux</b> de toute façon, ehehe..</color>)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_TownhallAd_PostWork4",
+      "guid": "2c096a9011780224e9788e9e885c8d67",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(\"New premium cow. Visit the townhall for a special treat.\")</i>",
+          "text": "<i>(« Nouvelle vache premium. Visitez l'hôtel de ville pour une gâterie spéciale. »)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(<color=perversion>That's right..~ They come for <b>me</b>..</color>)</i>",
+          "text": "<i>(<color=perversion>C'est ça..~ Ils viennent pour <b>moi</b>..</color>)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<i>(<color=perversion>There's a new <b>queen</b> in town, ehehehe...</color>)</i>",
+          "text": "<i>(<color=perversion>Il y a une nouvelle <b>reine</b> en ville, ehehehe...</color>)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_TownhallAd_PreWork",
+      "guid": "837e6dfd691df0446b2238d2870d08e7",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(It says \"They want your cream in their pie. Visit the townhall today.\"...)</i>",
+          "text": "<i>(Il est écrit « Ils veulent votre crème dans leur tarte. Visitez l'hôtel de ville aujourd'hui. »...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(This is so.. degrading...)</i>",
+          "text": "<i>(C'est tellement... dégradant...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<i>(There's more text... \"Got nice tits and looking for a nice pay? Your chance waits right inside the townhall, next to the entrance.\")</i>",
+          "text": "<i>(Il y a plus de texte... « Vous avez de beaux seins et cherchez un bon salaire ? Votre chance vous attend juste à l'intérieur de l'hôtel de ville, à côté de l'entrée. »)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<i>(Who would ever go and work for a place with an ad like <b>this</b>?!)</i>",
+          "text": "<i>(Qui irait travailler pour un endroit avec une publicité comme <b>ça</b> ?!)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "<i>(You'd have to really be in <b>dire</b> need of money..)</i>",
+          "text": "<i>(Il faudrait vraiment être dans un besoin <b>urgent</b> d'argent..)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<i>(...)</i>",
+          "text": "<i>(...)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_TownhallDispenser",
+      "guid": "e989427dd5ddf884ebde024827bf868e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(There's used paper tissues leaking out... And some liquid is all over it...)",
+          "text": "<i>(Il y a des mouchoirs en papier usagés qui fuient... Et du liquide partout...)",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(And below it a used condom...)</i>",
+          "text": "<i>(Et en dessous un préservatif usagé...)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_TownhallDispenser_PostWork",
+      "guid": "89a9f6db2562179479e8b7664d18d736",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(So this is where the cleanup ends up...)</i>",
+          "text": "<i>(C'est donc là que le nettoyage se termine...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(<color=perversion>Some of it must have been... inside me...</color>)</i>",
+          "text": "<i>(<color=perversion>Une partie a dû être... à l'intérieur de moi...</color>)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_TownhallDispenser_PostWork4",
+      "guid": "ec4abbb6a1e00a1498d443b27c6773b0",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(<color=perversion>So much cum, ehehe...~</color>)</i>",
+          "text": "<i>(<color=perversion>Tant de sperme, ehehe...~</color>)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i><color=perversion>(I bet more than half it it is thanks to me. They can't resist me, ehehe..)</color></i>",
+          "text": "<i><color=perversion>(Je parie que plus de la moitié est grâce à moi. Ils ne peuvent pas me résister, ehehe..)</color></i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<i><color=perversion>(The container seems locked... I wonder what it would be like to-...)</color></i>",
+          "text": "<i><color=perversion>(Le conteneur semble verrouillé... Je me demande ce que ce serait de-...)</color></i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<i><color=perversion>(...)</color></i>",
+          "text": "<i><color=perversion>(...)</color></i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Job_FuckBadgePartner_DoorLocked",
+      "guid": "c8daa50ee9d011142b2b81a558a68125",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(I should talk to the guy! Do what I came here to do.)</i>",
+          "text": "<i>(Je devrais parler au gars ! Faire ce que je suis venue faire ici.)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Job_FuckBadgePartner_Scene_Blowjob",
+      "guid": "6658440c40fc198408b22e4eb7a51c5a",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Is this the girl you brought me, love?",
+          "text": "Est-ce la fille que tu m'as apportée, mon amour ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "That's the one!",
+          "text": "C'est elle !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "Uhh... Heya!",
+          "text": "Uhh... Salut !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "Hello, sweetie. So you were interested in the job that my badge girl laid out?",
+          "text": "Bonjour, ma chérie. Alors, tu étais intéressée par le travail que ma fille de badge a proposé ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "Yeah... I'm interested. When do I get paid?",
+          "text": "Oui... Je suis intéressée. Quand serai-je payée ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "As soon as you two are done having a good time.",
+          "text": "Dès que vous aurez fini de vous amuser.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "Exactly. Now shall we get to it? I've been feeling the damn need all day. This girl doesn't cut it for me anymore.",
+          "text": "Exactement. Maintenant, allons-y ? J'ai ressenti ce putain de besoin toute la journée. Cette fille ne me suffit plus.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "Let's get to it then!",
+          "text": "Alors, allons-y !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "On your knees, hun.",
+          "text": "À genoux, chérie.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "<i>I sink to my knees, looking up at the man as he steps closer to me.</i>",
+          "text": "<i>Je m'agenouille, levant les yeux vers l'homme qui s'approche de moi.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "Atta girl. Don't be shy. Smile.",
+          "text": "Bravo ma fille. Ne sois pas timide. Souris.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "Like this?",
+          "text": "Comme ça ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "Such a cutie! Let me get his cock out for you, hun...",
+          "text": "Quelle mignonne ! Laisse-moi te sortir son pénis, chérie...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "Agh... Fuck.",
+          "text": "Agh... Putain.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "Look how eager she is! She's just diving right in for it... Mmm...",
+          "text": "Regarde comme elle est impatiente ! Elle se jette dedans... Mmm...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "Mmmm~",
+          "text": "Mmmm~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "His cock looks so nice in your mouth, hun...",
+          "text": "Son pénis est si beau dans ta bouche, chérie...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "Hoooh shit... Yeees, just like that...",
+          "text": "Hoooh merde... Oui, juste comme ça...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "Mmmf~",
+          "text": "Mmmf~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_20",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_21",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_22",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_23",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_24",
+          "originalText": "Ohhhh fuckk... I'm gonna...",
+          "text": "Ohhhh putain... Je vais...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_25",
+          "originalText": "",
+          "text": "",
+          "Choices": []
+        },
+        {
+          "LineId": "line_26",
+          "originalText": "Fuuck... That's so hot... Seeing your cum leak out of her mouth...",
+          "text": "Putain... C'est tellement chaud... Voir ton sperme couler de sa bouche...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_27",
+          "originalText": "So are we done?",
+          "text": "Alors, on a fini ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_28",
+          "originalText": "Hoh... Yeah... We're done. Here's your pay. You better head home before curfew.",
+          "text": "Hoh... Oui... Nous avons fini. Voici ta paie. Tu ferais mieux de rentrer chez toi avant le couvre-feu.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_29",
+          "originalText": "Yeah... I will.",
+          "text": "Oui... je le ferai.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Job_FuckBadgePartner_TalkAtTownhall",
+      "guid": "9eb17fee22410314d9c9de42d6a49965",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "You! Are you interested in the job I posted?",
+          "text": "Toi ! Es-tu intéressée par le poste que j'ai affiché ?",
+          "Choices": [
+            {
+              "choiceId": "Yes",
+              "originalText": "<color=perversion>Of course.</color>",
+              "text": "<color=perversion>Bien sûr.</color>"
+            },
+            {
+              "choiceId": "No",
+              "originalText": "No.",
+              "text": "Non."
+            }
+          ]
+        },
+        {
+          "LineId": "Cancel1",
+          "originalText": "Erm! No thanks!",
+          "text": "Euh ! Non merci !",
+          "Choices": []
+        },
+        {
+          "LineId": "Cancel2",
+          "originalText": "Then why did you take it? Whatever. See you later. Or not.",
+          "text": "Alors pourquoi l'as-tu pris ? Peu importe. À plus tard. Ou pas.",
+          "Choices": []
+        },
+        {
+          "LineId": "Accept",
+          "originalText": "I guess I am!",
+          "text": "Je suppose que oui !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "Good. Come with me, hun.",
+          "text": "Bien. Viens avec moi, chérie.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley First Night 2",
+      "guid": "af4251be5f18d9f458b25203ed2d5ba1",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>They throw my helpless body on the shady street before one of them spreads my legs.",
+          "text": "<i>Ils jettent mon corps sans défense sur la rue sombre avant que l'un d'eux n'écarte mes jambes.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "We'll fuck you til you pass out, bitch.",
+          "text": "On va te baiser jusqu'à ce que tu t'évanouisses, salope.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<color=perversion>So... Dirty...</color>",
+          "text": "<color=perversion>Tellement... Sale...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<color=perversion>Hhhhaaaaafffffff!!</color>",
+          "text": "<color=perversion>Hhhhaaaaafffffff!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "Mmmhh, yess.. Fucking a drugged slut is the best...",
+          "text": "Mmmhh, oui.. Baiser une salope droguée est le meilleur...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<color=perversion>Mmmnnnnhhhhh...</color>",
+          "text": "<color=perversion>Mmmnnnnhhhhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "Look at her, hahaha. What a slut.. She's loving it, hehe..",
+          "text": "Regardez-la, hahaha. Quelle salope.. Elle adore ça, hehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "<color=perversion>So... Intense.. Hahhh...</color>",
+          "text": "<color=perversion>Tellement... Intense.. Hahhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "That's what you get for taking a sex drug, slut..",
+          "text": "C'est ce que tu obtiens pour avoir pris une drogue sexuelle, salope..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "<color=perversion>Drugsss... Mnhhh... Wrong... Hhhnnn...</color>",
+          "text": "<color=perversion>Drogues... Mnhhh... Faux... Hhhnnn...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "Listen to her, hahaha. She's getting off on doing something \"wrong\"..",
+          "text": "Écoutez-la, hahaha. Elle prend son pied à faire quelque chose de « mal »..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "<color=perversion>Soo gooood....</color>",
+          "text": "<color=perversion>Tellement bon....</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "<i>He keeps fucking my dripping pussy for a while, until...",
+          "text": "<i>Il continue à baiser ma chatte dégoulinante pendant un moment, jusqu'à ce que...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "<color=perversion>Hhhaaaaaa!!! Yeeessss....!!</color>",
+          "text": "<color=perversion>Hhhaaaaaa!!! Ouiiiiii....!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "Your drugged pussy is amazing, slut..",
+          "text": "Ta chatte droguée est incroyable, salope..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "<color=perversion>Cummmm.... Hhhnnnn...</color>",
+          "text": "<color=perversion>Jouiiiii.... Hhhnnnn...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "Time to get out before the guards come over, hehe.",
+          "text": "Il est temps de partir avant que les gardes n'arrivent, hehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "You're right. This drug slut will come back for more anyways, isn't that right?",
+          "text": "Tu as raison. Cette salope droguée reviendra de toute façon, n'est-ce pas ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "<color=perversion>Mnhhn...</color>",
+          "text": "<color=perversion>Mnhhn...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "She's pretty much gone, haha. Guess she took a bit too much.",
+          "text": "Elle est à peu près partie, haha. Je suppose qu'elle en a pris un peu trop.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_20",
+          "originalText": "What a shame.. Hahaha..",
+          "text": "Quel dommage.. Hahaha..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_21",
+          "originalText": "<i>The men exit the alley, leaving me drugged, naked and full of cum in the dark alley.</i>",
+          "text": "<i>Les hommes sortent de l'allée, me laissant droguée, nue et pleine de sperme dans l'allée sombre.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_22",
+          "originalText": "<color=perversion>Hhhnn.. Feels.. Hooottt...</color>",
+          "text": "<color=perversion>Hhhnn.. Ça fait.. Très chaud...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_23",
+          "originalText": "<i>My vision slowly starts to drift into darkness.",
+          "text": "<i>Ma vision commence lentement à s'estomper dans l'obscurité.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_24",
+          "originalText": "<color=perversion>Mmmhh...</color>",
+          "text": "<color=perversion>Mmmhh...</color>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley First Night 3",
+      "guid": "00d6f356b3fe8df42b336f5d42c8053d",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>A few hours later...",
+          "text": "<i>Quelques heures plus tard...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Mmnnn... My head...",
+          "text": "Mmnnn... Ma tête...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "Uhng... What happened... I'm naked...?",
+          "text": "Uhng... Que s'est-il passé... Je suis nue...?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<i>Suddenly the memory of the prior night kicks back in.</i>",
+          "text": "<i>Soudain, le souvenir de la nuit précédente me revient.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "...!!",
+          "text": "...!!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<i>(What have I done...)</i>",
+          "text": "<i>(Qu'ai-je fait...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "<i>(Gah... My head... It hurts...)</i>",
+          "text": "<i>(Gah... Ma tête... Ça fait mal...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "<i>(Did I really take... <b>drugs</b>...?)</i>",
+          "text": "<i>(Ai-je vraiment pris... des <b>drogues</b>...?)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "<i>(And then I just... <color=perversion>Let them-</color>...)</i>",
+          "text": "<i>(Et puis j'ai juste... <color=perversion>Laissé faire-</color>...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "<i>(Guhhh..! It hurts...!)</i>",
+          "text": "<i>(Guhhh..! Ça fait mal...!)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "<i>(Ugh... That's what I get for doing something so wrong...)</i>",
+          "text": "<i>(Ugh... C'est ce que je récolte pour avoir fait quelque chose de si mal...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "<i>(So... <color=perversion>wrong</color>...)</i>",
+          "text": "<i>(Tellement... <color=perversion>mal</color>...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "<i>(If the pain doesn't go away, maybe I should ask those two if-)</i>",
+          "text": "<i>(Si la douleur ne disparaît pas, peut-être devrais-je leur demander si-)</i>.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "<i>(Ouch! Ouch ouch!)</i>",
+          "text": "<i>(Aïe ! Aïe aïe !)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "<i>(I really should stay away from them...! They took advantage of me...!)</i>",
+          "text": "<i>(Je devrais vraiment rester loin d'eux...! Ils ont profité de moi...!)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "But maybe they know how to make the headache... <color=perversion>go away</color>...",
+          "text": "Mais peut-être qu'ils savent comment faire disparaître le mal de tête... <color=perversion>disparaître</color>...",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley First Night Decision",
+      "guid": "338d866f24498c6419b031ff80beffbb",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(Are there two guys in there..? Maybe I could hide from the guards in there for a while...)</i>",
+          "text": "<i>(Il y a deux gars là-dedans..? Peut-être que je pourrais me cacher des gardes là-dedans un moment...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(The place looks really dark though... Maybe this is a bad idea...)</i>",
+          "text": "<i>(L'endroit a l'air vraiment sombre par contre... C'est peut-être une mauvaise idée...)</i>",
+          "Choices": [
+            {
+              "choiceId": "GoBack",
+              "originalText": "Leave.",
+              "text": "Partir."
+            },
+            {
+              "choiceId": "Hide",
+              "originalText": "<color=perversion>Go into the dark alley.</color>",
+              "text": "<color=perversion>Entrer dans l'allée sombre.</color>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley First Night",
+      "guid": "25ec38e25f2ba7748a92206073c5eddb",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Who are you? What do you want?",
+          "text": "Qui êtes-vous ? Que voulez-vous ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Me? Who are <b>you</b>?! And why are you hiding in a dark alley at night?!",
+          "text": "Moi ? Qui êtes-<b>vous</b> ?! Et pourquoi vous cachez-vous dans une ruelle sombre la nuit ?!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "Relax man, hehe.. She's not with the guards. Besides.. She looks more like she's hiding from the guards.",
+          "text": "Détends-toi mec, hehe.. Elle n'est pas avec les gardes. D'ailleurs.. On dirait plutôt qu'elle se cache des gardes.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "I-.. n-no..!",
+          "text": "J-.. n-non..!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "You're not, hmm? If you say so.. But if you want to stay here, you'll have to try some, hehe.",
+          "text": "Tu ne l'es pas, hmm ? Si tu le dis.. Mais si tu veux rester ici, tu devras essayer, hehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "Try... What?",
+          "text": "Essayer... Quoi ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "Hot <b>and</b> clueless, hehehe...",
+          "text": "Chaude <b>et</b> ignorante, hehehe...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "What is it..?!",
+          "text": "Qu'est-ce que c'est..?!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "Ever heard of \"Trens\"? You'd like it..",
+          "text": "As-tu déjà entendu parler de « Trens » ? Tu aimerais ça..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "Trens?! That's a <b>drug</b>..! Developed by... Peitho!",
+          "text": "Trens ?! C'est une <b>drogue</b>..! Développée par... Peitho !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "That's right, hehehe.. Injected, they use it for mind controlling their victims.. But when you smoke it...",
+          "text": "C'est ça, hehehe.. Injectée, ils l'utilisent pour contrôler l'esprit de leurs victimes.. Mais quand tu la fumes...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "Smoke it?!",
+          "text": "La fumer ?!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "It will make you feel <b>real</b> good... You'll take it with us.",
+          "text": "Ça te fera te sentir <b>vraiment</b> bien... Tu le prendras avec nous.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "No-.. I.. I don't-..",
+          "text": "Non-.. Je.. Je ne-..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "There's exactly two options here. Either you take our generous offer or we'll call the guards and tell them that you tried to sell us some Trens, hehehe..",
+          "text": "Il y a exactement deux options ici. Soit tu acceptes notre offre généreuse, soit nous appelons les gardes et leur disons que tu as essayé de nous vendre des Trens, hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "But I-..! I don't-",
+          "text": "Mais je-..! Je ne-",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "Guess I'll have to call the guards.. Too bad.. You'd enjoy it, I'm sure..",
+          "text": "Je suppose que je vais devoir appeler les gardes.. Dommage.. Tu aimerais ça, j'en suis sûr..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "<i>(I can't let him call the guards on me..! But... <b>drugs</b>?! From Peitho even?! I.. I <b>can't</b>...! <color=perversion><i>... right?</i></color>)</i>",
+          "text": "<i>(Je ne peux pas le laisser appeler les gardes sur moi..! Mais... des <b>drogues</b> ?! De Peitho en plus ?! Je.. Je <b>ne peux pas</b>...! <color=perversion><i>... n'est-ce pas ?</i></color>)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "Don't call the guards, please!.. I've just.. <color=perversion>I've never..</color>",
+          "text": "N'appelle pas les gardes, s'il te plaît..! J'ai juste.. <color=perversion>Je n'ai jamais..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "Haven't tried it yet, huh? Don't worry.. It will just... Make you relax, hehe..",
+          "text": "Tu n'as pas encore essayé, hein ? Ne t'inquiète pas.. Ça va juste... Te détendre, hehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_20",
+          "originalText": "Yeah, he's right. It will just make you a little more loose. Nothing dangerous..",
+          "text": "Oui, il a raison. Ça te rendra juste un peu plus détendue. Rien de dangereux..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_21",
+          "originalText": "You-.. You're sure it's not.. dangerous..?",
+          "text": "Tu-.. Tu es sûre que ce n'est pas.. dangereux..?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_22",
+          "originalText": "Absolutely. It's completely harmless. Just a little relaxation helper.",
+          "text": "Absolument. C'est complètement inoffensif. Juste une petite aide à la relaxation.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_23",
+          "originalText": "<i>(It's nothing dangerous... Then-... Maybe I should just... <color=perversion>Give it a little try...</color>)</i>",
+          "text": "<i>(Ce n'est rien de dangereux... Alors-... Peut-être que je devrais juste... <color=perversion>Essayer un peu...</color>)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_24",
+          "originalText": "If-.. <color=perversion>I'll try..</color> You will not call the guards on me then, right?!",
+          "text": "Si-.. <color=perversion>J'essaierai..</color> Tu n'appelleras pas les gardes sur moi alors, n'est-ce pas ?!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_25",
+          "originalText": "Of course not, hehehe.. We'll have some too.",
+          "text": "Bien sûr que non, hehehe.. Nous en prendrons aussi.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_26",
+          "originalText": "<i>(They'll have some too.. It can't be <color=perversion>that</color> wrong... And... There's nobody around to judge, right..? So why not... <color=perversion>Relax</color> a little...)</i>",
+          "text": "<i>(Ils en prendront aussi.. Ça ne peut pas être <color=perversion>si</color> mal... Et... Il n'y a personne pour juger, n'est-ce pas..? Alors pourquoi ne pas... <color=perversion>Se détendre</color> un peu...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_27",
+          "originalText": "<color=perversion>I'll try a little..</color> But just a bit..!",
+          "text": "<color=perversion>Je vais essayer un peu..</color> Mais juste un peu..!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_28",
+          "originalText": "Of course, of course.. Here.",
+          "text": "Bien sûr, bien sûr.. Tiens.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_29",
+          "originalText": "<i>He hands me a electronic cigarette and points at one end.</i>",
+          "text": "<i>Il me tend une cigarette électronique et pointe une extrémité.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_30",
+          "originalText": "Suck on that and breathe in.",
+          "text": "Suce ça et inspire.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_31",
+          "originalText": "Al-.. Alright...",
+          "text": "Al-.. D'accord...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_32",
+          "originalText": "<i>(I can't believe I'm really going to-... to take <color=perversion>drugs</color>... This is so... so <color=perversion>wrong</color>... I shouldn't... But-...)</i>",
+          "text": "<i>(Je n'arrive pas à croire que je vais vraiment-... prendre des <color=perversion>drogues</color>... C'est tellement... tellement <color=perversion>mal</color>... Je ne devrais pas... Mais-...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_33",
+          "originalText": "<i>I look down at the device as an unfamiliar excitement takes over my mind.</i>",
+          "text": "<i>Je regarde l'appareil tandis qu'une excitation inconnue s'empare de mon esprit.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_34",
+          "originalText": "<i>(Why <color=perversion>shouldn't</color> I do something <color=perversion>crazy</color> from time to time... It's <color=perversion> exciting</color> and maybe it'll be <b><color=perversion>fun</color>...)</i>",
+          "text": "<i>(Pourquoi ne devrais-je pas faire quelque chose de <color=perversion>fou</color> de temps en temps... C'est <color=perversion>excitant</color> et peut-être que ce sera <b><color=perversion>amusant</color>...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_35",
+          "originalText": "<i>I put the device up against my lips. A sweet taste enters my mouth as I suck on it and try to breathe in at the same time.</i>",
+          "text": "<i>Je porte l'appareil à mes lèvres. Un goût sucré entre dans ma bouche alors que je le suce et essaie d'inspirer en même temps.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_36",
+          "originalText": "That's right... Take a nice deep breath, hehehe..",
+          "text": "C'est ça... Prends une bonne grande inspiration, hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_37",
+          "originalText": "<i>I shake from nervous excitement as I breathe back out.</i>",
+          "text": "<i>Je tremble d'excitation nerveuse en expirant.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_38",
+          "originalText": "I-.. I did it..",
+          "text": "J-.. Je l'ai fait..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_39",
+          "originalText": "<i>They both take their turn and inhale a strongh breath of the drug.</i>",
+          "text": "<i>Ils prennent tous les deux leur tour et inhalent une forte bouffée de la drogue.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_40",
+          "originalText": "Good job.. Wasn't so bad after all, huh?",
+          "text": "Bon travail.. Ce n'était pas si mal après tout, hein ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_41",
+          "originalText": "No.. It's-.. Hehh.. It's not..",
+          "text": "Non.. C'est-.. Hehh.. Ce n'est pas..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_42",
+          "originalText": "<color=perversion><i>(Hiding in a dark backalley... Taking drugs, hehe.. I would have <b>never</b> done this a while ago...)</i></color>",
+          "text": "<color=perversion><i>(Cachée dans une ruelle sombre... À prendre des drogues, hehe.. Je n'aurais <b>jamais</b> fait ça il y a quelque temps...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_43",
+          "originalText": "<i>Thoughts leave my mind, as a haze starts filling it instead. I feel warmer by the second. It feels as if there is a warmth within me.</i>",
+          "text": "<i>Les pensées quittent mon esprit, tandis qu'une brume commence à le remplir. Je me sens plus chaude de seconde en seconde. C'est comme s'il y avait une chaleur en moi.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_44",
+          "originalText": "It's pretty warm today, don't you think?",
+          "text": "Il fait assez chaud aujourd'hui, tu ne trouves pas ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_45",
+          "originalText": "Yeah.. It's <color=perversion>hot</color>-...",
+          "text": "Oui.. C'est <color=perversion>chaud</color>-...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_46",
+          "originalText": "Why don't you go ahead and take off that jacket of yours..",
+          "text": "Pourquoi ne pas enlever ta veste..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_47",
+          "originalText": "My Jacket..? But I-..",
+          "text": "Ma veste..? Mais je-..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_48",
+          "originalText": "Shh.. Here, have another drag.",
+          "text": "Chut.. Tiens, prends une autre bouffée.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_50",
+          "originalText": "Mn.. Right.. Another drag..",
+          "text": "Mn.. D'accord.. Une autre bouffée..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_49",
+          "originalText": "<i>I take the device and breathe through it again. The heat inside me becomes stronger.</i>",
+          "text": "<i>Je prends l'appareil et respire à travers de nouveau. La chaleur en moi devient plus forte.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_51",
+          "originalText": "Is pretty warm, heh hehe..",
+          "text": "C'est assez chaud, heh hehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_52",
+          "originalText": "<i>The fog in my head becomes stronger. My nipples grow hard and my pussy starts to slowly get wet.</i>",
+          "text": "<i>Le brouillard dans ma tête devient plus dense. Mes tétons durcissent et ma chatte commence à devenir lentement humide.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_53",
+          "originalText": "Someone as hot as you shouldn't hide her body with a jacket like that. Take it off. It's too warm anyways..",
+          "text": "Quelqu'un d'aussi sexy que toi ne devrait pas cacher son corps avec une veste comme ça. Enlève-la. Il fait trop chaud de toute façon..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_54",
+          "originalText": "<color=perversion>You're right, ehehe.. Is wayy to warm..</color>",
+          "text": "<color=perversion>Tu as raison, ehehe.. Il fait beaucoup trop chaud..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_55",
+          "originalText": "Much better.. Notice how relaxed you are..",
+          "text": "Beaucoup mieux.. Remarque à quel point tu es détendue..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_56",
+          "originalText": "<color=perversion>It totally works, ehehe!</color>",
+          "text": "<color=perversion>Ça marche totalement, ehehe !</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_57",
+          "originalText": "It feels good, doesn't it? Nice and warm...",
+          "text": "Ça fait du bien, n'est-ce pas ? Agréable et chaud...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_58",
+          "originalText": "<color=perversion>It makes me sooo warm.. Mnn...</color>",
+          "text": "<color=perversion>Ça me rend tellement chaude.. Mnn...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_59",
+          "originalText": "Go ahead, take off some more.. We don't judge..",
+          "text": "Vas-y, enlève-en un peu plus.. Nous ne jugeons pas..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_60",
+          "originalText": "<color=perversion>So warm...</color>",
+          "text": "<color=perversion>Tellement chaud...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_61",
+          "originalText": "Hehehe.. Yeah, that's right. We told you, you'd enjoy the drug.. It's good for you to relax like this.",
+          "text": "Hehehe.. Oui, c'est ça. Nous te l'avons dit, tu apprécierais la drogue.. C'est bon pour toi de te détendre comme ça.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_62",
+          "originalText": "<color=perversion>Yess... They feel goooddd...</color>",
+          "text": "<color=perversion>Oui... Ils se sentent tellement bien...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_63",
+          "originalText": "You should thank us for letting you enjoy some Peitho drugs with us, slut.",
+          "text": "Tu devrais nous remercier de t'avoir laissé profiter de drogues de Peitho avec nous, salope.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_64",
+          "originalText": "<color=perversion>Mnnhh.. Thank youu...</color>",
+          "text": "<color=perversion>Mnnhh.. Merciii...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_65",
+          "originalText": "Get naked.",
+          "text": "Mets-toi nue.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_66",
+          "originalText": "<color=perversion>N.. Naked?</color>",
+          "text": "<color=perversion>N.. Nue ?</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_67",
+          "originalText": "<i>He presses the device into my mouth and lets me take another draw.</i>",
+          "text": "<i>Il presse l'appareil dans ma bouche et me laisse prendre une autre bouffée.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_68",
+          "originalText": "<color=perversion>Hhhh...</color>",
+          "text": "<color=perversion>Hhhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_69",
+          "originalText": "That probably should have given her the rest, I put some extra in, hehehe.",
+          "text": "Ça aurait probablement dû lui donner le reste, j'en ai mis un peu plus, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_70",
+          "originalText": "Nice... It'll make sure she will come back too..",
+          "text": "Bien... Ça fera en sorte qu'elle revienne aussi..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_71",
+          "originalText": "<b><size=50>Take off your clothes</size></b>, drugged slut, hehehe.",
+          "text": "<b><size=50>Enlève tes vêtements</size></b>, salope droguée, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_72",
+          "originalText": "<color=perversion>Clothes... Yesss... Too hot... So hot...</color>",
+          "text": "<color=perversion>Vêtements... Ouiii... Trop chaud... Tellement chaud...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_73",
+          "originalText": "<i>With my mind in complete absence and unable to form my own thoughts, I strip naked in front of them.</i>",
+          "text": "<i>L'esprit complètement absent et incapable de former mes propres pensées, je me déshabille devant eux.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_74",
+          "originalText": "She's all gone.. Not even thinking twice before stripping naked.. ",
+          "text": "Elle est complètement partie.. Sans même réfléchir à deux fois avant de se déshabiller..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_75",
+          "originalText": "Clearly her first time, hehehe.. Not her last time..",
+          "text": "Clairement sa première fois, hehehe.. Pas sa dernière..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_76",
+          "originalText": "<color=perversion>I'm so... Mnhh.. Feel so hottt.. Am I..? Heheheheeee..~</color>",
+          "text": "<color=perversion>Je suis tellement... Mnhh.. Je me sens tellement chaude.. Suis-je..? Heheheheeee..~</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_77",
+          "originalText": "Yeah, that's right... You're all high and horny... That's what the drug does. Next to increasing the stimulation of your nerves of course..",
+          "text": "Oui, c'est ça... Tu es complètement défoncée et excitée... C'est ce que fait la drogue. En plus d'augmenter la stimulation de tes nerfs bien sûr..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_78",
+          "originalText": "<color=perversion>Yeshh.. Why don't you jus.. Cmere...</color>",
+          "text": "<color=perversion>Oui.. Pourquoi ne viens-tu pas.. Ici...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_79",
+          "originalText": "<color=perversion><b><size=50>Nhhaaa..!!?!</color>",
+          "text": "<color=perversion><b><size=50>Nhhaaa..!!?!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_80",
+          "originalText": "<size=70><b><color=perversion>Fhhhaaa!!!</color>",
+          "text": "<size=70><b><color=perversion>Fhhhaaa!!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_81",
+          "originalText": "Hahahahaha... The drug is working really well on her.. She's going crazy from simply being groped.",
+          "text": "Hahahahaha... La drogue agit très bien sur elle.. Elle devient folle rien qu'en étant tripotée.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_82",
+          "originalText": "It really is her first time... Time to get her <b>hooked</b>.",
+          "text": "C'est vraiment sa première fois... Il est temps de la rendre <b>accro</b>.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_83",
+          "originalText": "You'll get your first drugged cock now, slut. You'll <b>love</b> it.",
+          "text": "Tu auras ton premier pénis drogué maintenant, salope. Tu vas <b>adorer</b> ça.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_84",
+          "originalText": "<color=perversion>Cock... Yeshh.. Mnfhhh...</color>",
+          "text": "<color=perversion>Pénis... Ouiii.. Mnfhhh...</color>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley Night Two 2",
+      "guid": "a5f9161e925952949a1666b59bfc226c",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>Many hours later...",
+          "text": "<i>Plusieurs heures plus tard...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Ugh... ngh...",
+          "text": "Ugh... ngh...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<i>(I-... I let it happen... Again...)</i>",
+          "text": "<i>(Je-... Je l'ai laissé faire... Encore...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<i>(Why am I doing this... How can I just take... drugs...?)</i>",
+          "text": "<i>(Pourquoi je fais ça... Comment puis-je simplement prendre... des drogues...?)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "<i>(Guh...! Ugh...! Aahhh...)</i>",
+          "text": "<i>(Guh...! Ugh...! Aahhh...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<i>(It hurts even more than last time... Ugh...)</i>",
+          "text": "<i>(Ça fait encore plus mal que la dernière fois... Ugh...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "<i>(Did I really let them... Just-... In my-...)</i>",
+          "text": "<i>(Les ai-je vraiment laissés... Juste-... Dans mon-...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "<color=perversion><i>(My ass...?)</i></color>",
+          "text": "<color=perversion><i>(Mon cul...?)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "<i>(Gahh!!... Ffuck... This is... Aaahh!!)</i>",
+          "text": "<i>(Gahh!!... Putain... C'est... Aaahh!!)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "<i>(How did I get into this...)</i>",
+          "text": "<i>(Comment suis-je arrivée là...)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley Night Two Decision",
+      "guid": "0b718fb2723c44748b56a7a388d1be87",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(I shouldn't go back to them, they.. They did wrong things..)</i>",
+          "text": "<i>(Je ne devrais pas retourner vers eux, ils.. Ils ont fait de mauvaises choses..)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(<color=perversion>Wrong</color>...)</i>",
+          "text": "<i>(<color=perversion>Mal</color>...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<i>(Maybe they... Know a cure for the headache..?)</i>",
+          "text": "<i>(Peut-être qu'ils... connaissent un remède contre le mal de tête..?)</i>",
+          "Choices": [
+            {
+              "choiceId": "GoBack",
+              "originalText": "Leave.",
+              "text": "Partir."
+            },
+            {
+              "choiceId": "Hide",
+              "originalText": "<color=perversion>Go into the alley.</color>",
+              "text": "<color=perversion>Entrer dans l'allée.</color>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley Night Two",
+      "guid": "9ee92cdaa8ab08d4e95a051a33016f5b",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Look at who's back...",
+          "text": "Regardez qui est de retour...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "H-hey...",
+          "text": "H-hey...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "Hehehe.. What can we do for you, hmm?",
+          "text": "Hehehe.. Que pouvons-nous faire pour toi, hmm ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "I- it's just-.. I've had a headache...",
+          "text": "C'est juste... J'ai eu mal à la tête...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "And you want to know how to get rid of it, hm?",
+          "text": "Et tu veux savoir comment t'en débarrasser, hein ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "Yeah.. Right..",
+          "text": "Oui.. D'accord..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "Of course, hehehe... It's completely normal. Just a side effect.",
+          "text": "Bien sûr, hehehe... C'est tout à fait normal. Juste un effet secondaire.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "Exactly. You don't need to worry about it. All you need to do is to relax.",
+          "text": "Exactement. Tu n'as pas à t'en soucier. Tout ce que tu as à faire est de te détendre.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "Relax... O-okay... But how..?",
+          "text": "Détends-toi... O-okay... Mais comment..?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "Just have another draw. It relaxed you so well last time.",
+          "text": "Prends juste une autre bouffée. Ça t'a tellement détendue la dernière fois.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "Nonono.. That's not good, I really shouldn't do tha-",
+          "text": "Nonono.. Ce n'est pas bon, je ne devrais vraiment pas faire ça-",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "Guhh...!",
+          "text": "Guhh...!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "<i>(It hurts so bad.. I'll just take it once more to stop the pain and then that's it..)</i>",
+          "text": "<i>(Ça fait tellement mal.. Je vais juste le prendre une fois de plus pour arrêter la douleur et puis c'est tout..)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "Here, here. This will make the pain go away.",
+          "text": "Tiens, tiens. Ça fera disparaître la douleur.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "<i>I take the smoking device.</i>",
+          "text": "<i>Je prends l'appareil à fumer.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "And it will really make the pain go away...?",
+          "text": "Et ça fera vraiment disparaître la douleur...?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "Just take a draw and it will be gone, trust us..",
+          "text": "Prends juste une bouffée et ça disparaîtra, fais-nous confiance..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "<i>(It's just... <color=perversion>One draw</color>... No big deal...)</i>",
+          "text": "<i>(C'est juste... <color=perversion>Une bouffée</color>... Pas grand-chose...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "<i>I put the device in between my lips and suck the smoke out of it.",
+          "text": "<i>Je mets l'appareil entre mes lèvres et aspire la fumée.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "<i>(It tastes so... <color=perversion>sweet</color>...)</i>",
+          "text": "<i>(Ça a un goût si... <color=perversion>doux</color>...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_20",
+          "originalText": "See.. It's good for you..",
+          "text": "Tu vois.. C'est bon pour toi..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_21",
+          "originalText": "R-right... It's <color=perversion>not such a big deal</color>...",
+          "text": "D-d'accord... Ce n'est <color=perversion>pas si grave</color>...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_22",
+          "originalText": "No more headache, hmm?",
+          "text": "Plus de mal de tête, hmm ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_23",
+          "originalText": "I don't think so..",
+          "text": "Je ne pense pas..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_24",
+          "originalText": "<i>(It's.. <color=perversion>it's really gone...</color>)</i>",
+          "text": "<i>(C'est.. <color=perversion>c'est vraiment parti...</color>)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_25",
+          "originalText": "You should have another pull, it will make you feel even better, hehe.",
+          "text": "Tu devrais prendre une autre bouffée, ça te fera te sentir encore mieux, hehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_26",
+          "originalText": "Even.. <color=perversion>even better...",
+          "text": "Même.. <color=perversion>encore mieux...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_27",
+          "originalText": "<i>I take another deep breath through the device.",
+          "text": "<i>Je prends une autre grande inspiration à travers l'appareil.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_28",
+          "originalText": "<color=perversion>Mmhh...</color>",
+          "text": "<color=perversion>Mmhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_29",
+          "originalText": "That's right. It feels nice and warm, doesn't it.",
+          "text": "C'est ça. C'est agréable et chaud, n'est-ce pas.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_30",
+          "originalText": "<color=perversion>So warm... Mmmhh...</color>",
+          "text": "<color=perversion>Tellement chaud... Mmmhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_31",
+          "originalText": "We deserve some payment for letting you have some of your drug.",
+          "text": "Nous méritons un paiement pour t'avoir laissé prendre un peu de ta drogue.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_32",
+          "originalText": "<color=perversion>Payment.. Nh..</color>",
+          "text": "<color=perversion>Paiement.. Nh..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_33",
+          "originalText": "We want to see some of your hot body.",
+          "text": "Nous voulons voir un peu de ton corps sexy.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_34",
+          "originalText": "My body..? But that's-",
+          "text": "Mon corps..? Mais c'est-",
+          "Choices": []
+        },
+        {
+          "LineId": "line_35",
+          "originalText": "Shhh.",
+          "text": "Chut.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_36",
+          "originalText": "<i>He sticks the device in my mouth, making me breathe through it.",
+          "text": "<i>Il me met l'appareil dans la bouche, me faisant respirer à travers.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_37",
+          "originalText": "<color=perversion>Hhhhhhh...</color>",
+          "text": "<color=perversion>Hhhhhhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_38",
+          "originalText": "Hehehe.. We'll get this slut addicted in no time like this.",
+          "text": "Hehehe.. Nous allons rendre cette salope accro en un rien de temps comme ça.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_39",
+          "originalText": "For sure.. And she'll love it almost as much as us...",
+          "text": "Bien sûr.. Et elle l'aimera presque autant que nous...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_40",
+          "originalText": "<i>I barely notice their words, as my mind is completely drifted into a soothing warmth.",
+          "text": "<i>Je remarque à peine leurs mots, car mon esprit est complètement plongé dans une chaleur apaisante.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_41",
+          "originalText": "<color=perversion>So warm...</color>",
+          "text": "<color=perversion>Tellement chaud...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_42",
+          "originalText": "Get on your knees.",
+          "text": "Mets-toi à genoux.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_43",
+          "originalText": "<i>They push me on all fours, making my ass face towards them. Then they pull down the lower part of my suit, revealing my ass.</i>",
+          "text": "<i>Ils me poussent à quatre pattes, me faisant faire face à eux. Puis ils baissent la partie inférieure de ma combinaison, révélant mon cul.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_44",
+          "originalText": "She's so fucking hot, hehehe..",
+          "text": "Elle est tellement putain de sexy, hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_45",
+          "originalText": "Look at that ass.. Can't wait to ruin it...",
+          "text": "Regarde ce cul.. J'ai hâte de le ruiner...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_46",
+          "originalText": "<i>My face is being pressed against the cold hard ground, as I feel myself getting more and more wet.",
+          "text": "<i>Mon visage est pressé contre le sol froid et dur, alors que je me sens de plus en plus humide.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_47",
+          "originalText": "<color=perversion><i>(Feel so hot.. Hnnff...)</i></color>",
+          "text": "<color=perversion><i>(Je me sens tellement chaude.. Hnnff...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_48",
+          "originalText": "Look at that, the drugged slut is already wet... It must have already made her horny..",
+          "text": "Regardez ça, la salope droguée est déjà mouillée... Ça a dû la rendre excitée..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_49",
+          "originalText": "Her ass looks completely unused... It's time to change that, hehehe.",
+          "text": "Son cul a l'air complètement vierge... Il est temps de changer ça, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_50",
+          "originalText": "<color=perversion>Hhhaaaa..!! My.. ass... Hnnn...</color>",
+          "text": "<color=perversion>Hhhaaaa..!! Mon.. cul... Hnnn...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_51",
+          "originalText": "She's still so easily drugged.. She changes from prude bitch to horny slut in just three draws..",
+          "text": "Elle est toujours aussi facilement droguée.. Elle passe de salope prude à salope excitée en seulement trois bouffées..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_52",
+          "originalText": "You'll get your ass stuffed with cock tonight and you won't even mind, hehehe.",
+          "text": "Tu auras ton cul rempli de bite ce soir et ça ne te dérangera même pas, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_53",
+          "originalText": "<i>I'm unable to resist the overwhelming urge to touch myself.",
+          "text": "<i>Je suis incapable de résister à l'envie irrésistible de me toucher.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_54",
+          "originalText": "<color=perversion>Ghhhhnn...</color>",
+          "text": "<color=perversion>Ghhhhnn...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_55",
+          "originalText": "Can't keep yourself from touching, huh? She wants more... Desperately.",
+          "text": "Tu ne peux pas t'empêcher de te toucher, hein ? Elle en veut plus... Désespérément.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_56",
+          "originalText": "<color=perversion>Tongue.. Yesss... Mnhhh!!</color>",
+          "text": "<color=perversion>Langue.. Ouiii... Mnhhh!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_57",
+          "originalText": "That's right.. A few draws and you become a drugged slut that loves having a tongue against her ass..",
+          "text": "C'est ça.. Quelques bouffées et tu deviens une salope droguée qui adore avoir une langue contre son cul..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_58",
+          "originalText": "<color=perversion>Ffhhh... Druggd... Mhnnn...</color>",
+          "text": "<color=perversion>Ffhhh... Droguée... Mhnnn...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_59",
+          "originalText": "Getting touched with drugs feels much better, hmm? Hehehe...",
+          "text": "Se faire toucher sous l'effet de la drogue est bien mieux, hmm ? Hehehe...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_60",
+          "originalText": "<color=perversion>Drug-... Mnhhh...</color>",
+          "text": "<color=perversion>Drogue-... Mnhhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_61",
+          "originalText": "Time for you to get some more of what you <b>really</b> want. Look up, slut. Hehehe..",
+          "text": "Il est temps pour toi d'obtenir plus de ce que tu <b>veux</b> vraiment. Lève les yeux, salope. Hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_62",
+          "originalText": "<color=perversion>Hhhaaa... Mnnhh...</color>",
+          "text": "<color=perversion>Hhhaaa... Mnnhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_63",
+          "originalText": "She's so gone, she can't even speak anymore..",
+          "text": "Elle est tellement partie, elle ne peut même plus parler..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_64",
+          "originalText": "She won't need to, hehehe..",
+          "text": "Elle n'aura pas besoin de le faire, hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_65",
+          "originalText": "<color=perversion>Mhhnn.. Yhaaaa...</color>",
+          "text": "<color=perversion>Mhhnn.. Yhaaaa...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_66",
+          "originalText": "She's fucking tight. Never been fucked in the ass before, huh? Good thing you're drugged out of your mind, hehehe. I'll just spread you until it fits, slut.",
+          "text": "Elle est putain de serrée. Jamais baisée dans le cul avant, hein ? Heureusement que tu es droguée jusqu'à la moelle, hehehe. Je vais juste t'écarter jusqu'à ce que ça rentre, salope.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_67",
+          "originalText": "<color=perversion>Haaa... Nghaaaa...!!</color>",
+          "text": "<color=perversion>Haaa... Nghaaaa...!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_68",
+          "originalText": "<color=perversion>Gaaahhh!!... Mnhhh...</color>",
+          "text": "<color=perversion>Gaaahhh!!... Mnhhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_69",
+          "originalText": "So tight... I doubt that will stay for long..",
+          "text": "Tellement serré... Je doute que ça dure longtemps..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_70",
+          "originalText": "So fucking tight, hahaha..",
+          "text": "Tellement putain de serré, hahaha..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_71",
+          "originalText": "<color=perversion>Mmnhh Yess... Fhhh...</color>",
+          "text": "<color=perversion>Mmnhh Oui... Fhhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_72",
+          "originalText": "Just a bit of drugs and this slut already loves having cock in her tight ass...",
+          "text": "Juste un peu de drogue et cette salope adore déjà avoir une bite dans son cul serré...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_73",
+          "originalText": "<color=perversion>Fuck meee... Mnhhhghh!!</color>",
+          "text": "<color=perversion>Baise-moi... Mnhhhghh!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_74",
+          "originalText": "Loving the cock, huh Drugged slut?!",
+          "text": "Tu aimes la bite, hein salope droguée ?!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_75",
+          "originalText": "<color=perversion>Yesss... Mnhhhg!!</color>",
+          "text": "<color=perversion>Ouiii... Mnhhhg!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_76",
+          "originalText": "Tell us how much you love taking drugs, slut, hahaha.",
+          "text": "Dis-nous à quel point tu aimes prendre de la drogue, salope, hahaha.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_77",
+          "originalText": "<color=perversion>Feels soo.. <b>gooooodd</b>... Ghhhaaa...</color>",
+          "text": "<color=perversion>Ça fait tellement.. <b>biennnn</b>... Ghhhaaa...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_78",
+          "originalText": "Aah fuck, she's gonna make me cum...!",
+          "text": "Aah putain, elle va me faire jouir... !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_79",
+          "originalText": "<color=perversion>Yesss.. Mnhhghhh!! Pleaseeee...!!!</color>",
+          "text": "<color=perversion>Ouiii.. Mnhhghhh!! S'il te plaît...!!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_80",
+          "originalText": "Fffuuuck...!!",
+          "text": "Putain...!!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_81",
+          "originalText": "<color=perversion>Hhaaaa!!!... Mnnhhhaaaa!!!</color>",
+          "text": "<color=perversion>Hhaaaa!!!... Mnnhhhaaaa!!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_82",
+          "originalText": "What a hot drugged slut...",
+          "text": "Quelle salope droguée sexy...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_83",
+          "originalText": "She made me cum so much, hehehehe...",
+          "text": "Elle m'a fait jouir tellement, hehehehe...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_84",
+          "originalText": "Time to go. She'll be back anyways. This time, the headache will be worse after all..",
+          "text": "Il est temps de partir. Elle reviendra de toute façon. Cette fois, le mal de tête sera pire après tout..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_85",
+          "originalText": "<color=perversion>Mnhh...</color>",
+          "text": "<color=perversion>Mnhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_86",
+          "originalText": "She's all zoned out again, hehehe.. Let's go.",
+          "text": "Elle est de nouveau complètement défoncée, hehehe.. Allons-y.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_87",
+          "originalText": "<i>They leave me alone in the dark alley, as my vision drifts into darkness once more.",
+          "text": "<i>Ils me laissent seule dans la ruelle sombre, tandis que ma vision s'estompe à nouveau dans l'obscurité.</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley Night Three 2",
+      "guid": "435e682752692094f94b1ce65460224a",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Ughh... Fuck...",
+          "text": "Ughh... Putain...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(There's.. <color=perversion>dried cum</color> all over me...)</i>",
+          "text": "<i>(Il y a.. du <color=perversion>sperme séché</color> partout sur moi...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<i>(I let them... <color=perversion>have me</color> again.. Just for... <color=perversion>it</color>...)</i>",
+          "text": "<i>(Je les ai laissés... <color=perversion>m'avoir</color> encore.. Juste pour... <color=perversion>ça</color>...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<i>(Waking up in a dark alley, covered in cum, naked, alone... What has become of me...)</i>",
+          "text": "<i>(Se réveiller dans une ruelle sombre, couverte de sperme, nue, seule... Qu'est-ce que je suis devenue...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<i>(It's so wrong-... But-.. I-..)</i>",
+          "text": "<i>(C'est tellement mal-... Mais-.. Je-..)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "<color=perversion><i>(It shouldn't-... Feel good...)</i></color>",
+          "text": "<color=perversion><i>(Ça ne devrait pas-... Faire du bien...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "<i>(I just-.. I won't come back..! Then it'll be fine..!)</i>",
+          "text": "<i>(Je-.. Je ne reviendrai pas..! Alors ça ira..!)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "<color=perversion><i>(R-.. right..?)</i></color>",
+          "text": "<color=perversion><i>(N-.. n'est-ce pas..?)</i></color>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley Night Three Decision",
+      "guid": "30253a3fa72e0d64c874dda7c2ca5d60",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(...)</i>",
+          "text": "<i>(...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(I-.. I shouldn't.. I'll end up like last tim-)</i>",
+          "text": "<i>(Je-.. Je ne devrais pas.. Je vais finir comme la dernière fois-)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "Guhhh...!",
+          "text": "Guhhh...!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<i>(But they have... <color=perversion>it</color>...)</i>",
+          "text": "<i>(Mais ils ont... <color=perversion>ça</color>...)</i>",
+          "Choices": [
+            {
+              "choiceId": "GoBack",
+              "originalText": "Go Back.",
+              "text": "Retourner."
+            },
+            {
+              "choiceId": "Hide",
+              "originalText": "<color=perversion>Enter the alley...</color>",
+              "text": "<color=perversion>Entrer dans l'allée...</color>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley Night Three",
+      "guid": "d909984356f0da74fb7be1b55ee5d7fe",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(They're.. not here..?)</i>",
+          "text": "<i>(Ils ne sont.. pas là..?)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Guhh..! Fuck..!",
+          "text": "Guhh..! Putain..!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<i>(Where are they..?! I-.. )</i>",
+          "text": "<i>(Où sont-ils..?! Je-.. )</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "Nghh..!!",
+          "text": "Nghh..!!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "<color=perversion><i>(I just need.. A little more.. Just against the headache..)</i></color>",
+          "text": "<color=perversion><i>(J'ai juste besoin.. D'un peu plus.. Juste contre le mal de tête..)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<i>(Where are they...)</i>",
+          "text": "<i>(Où sont-ils...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "<i>I hear footsteps behind me as 4 men enter the alley.</i>",
+          "text": "<i>J'entends des pas derrière moi alors que 4 hommes entrent dans l'allée.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "Hehehe, see.. I told you she'd be back.. Hello there..~",
+          "text": "Hehehe, tu vois.. Je t'avais dit qu'elle reviendrait.. Bonjour..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "W-who are the other two?",
+          "text": "Q-qui sont les deux autres ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "Does it matter as long as they have what you want?",
+          "text": "Est-ce que ça importe tant qu'ils ont ce que tu veux ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "Guh...!",
+          "text": "Guh...!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "Headache, hmm? Don't worry, it gets better with time. As long as you don't stop, ehehe..",
+          "text": "Mal de tête, hmm ? Ne t'inquiète pas, ça s'améliore avec le temps. Tant que tu ne t'arrêtes pas, ehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "D-.. do you have.. some..?",
+          "text": "A-.. as-tu.. un peu..?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "I told you, she loves it, hehehe..",
+          "text": "Je te l'ai dit, elle adore ça, hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "...",
+          "text": "...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "I sell it, so of course I have more, ehehe.. But nothing comes for free, sugar..~",
+          "text": "Je le vends, alors bien sûr j'en ai plus, hehehe.. Mais rien n'est gratuit, ma chérie..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "Right-.. I-",
+          "text": "D'accord-.. Je-",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "Fghhh...!",
+          "text": "Fghhh...!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "Just.. Give me a bit.. Please..!",
+          "text": "Juste.. Donne-moi un peu.. S'il te plaît..!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "Ehehe.. Begging already.. Good..~",
+          "text": "Ehehe.. Tu mendies déjà.. Bien..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_20",
+          "originalText": "But why don't you do something for us first, hmm?",
+          "text": "Mais pourquoi ne ferais-tu pas quelque chose pour nous d'abord, hmm ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_21",
+          "originalText": "Take off your clothes.",
+          "text": "Enlève tes vêtements.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_22",
+          "originalText": "Right...",
+          "text": "D'accord...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_23",
+          "originalText": "<i>(Is this really happening..? In a dark alley.. Stripping for.. Drugs..?)</i>",
+          "text": "<i>(Est-ce que ça arrive vraiment..? Dans une ruelle sombre.. Se déshabiller pour.. Des drogues..?)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_24",
+          "originalText": "I see the potential you've been talking about, ehehe..~ ",
+          "text": "Je vois le potentiel dont tu parlais, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_25",
+          "originalText": "I know, hehehe.. She'd be <b>very</b> lucrative.",
+          "text": "Je sais, hehehe.. Elle serait <b>très</b> lucrative.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_26",
+          "originalText": "Guh..!",
+          "text": "Guh..!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_27",
+          "originalText": "Can I-.. Have it..? <color=perversion>Please..!</color>",
+          "text": "Puis-je-.. L'avoir..? <color=perversion>S'il te plaît..!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_28",
+          "originalText": "I'm a man of my word, ehehe.. Here you go.",
+          "text": "Je suis un homme de parole, ehehe.. Tiens.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_29",
+          "originalText": "<i>He opens his hand, revealing another one of the familiar devices. I rush to grab it out of his hand and take my first pull.",
+          "text": "<i>Il ouvre sa main, révélant un autre des appareils familiers. Je me précipite pour le prendre de sa main et tire ma première bouffée.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_30",
+          "originalText": "<color=perversion>Hhhh... Mh...</color>",
+          "text": "<color=perversion>Hhhh... Mh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_31",
+          "originalText": "Ehehe... Much better, isn't it..?~",
+          "text": "Ehehe... Bien mieux, n'est-ce pas..?~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_32",
+          "originalText": "<i>I take another pull of the device. I can feel the constant headache slide out of my head. It is replaced with a feeling of clouded mind.",
+          "text": "<i>Je tire une autre bouffée de l'appareil. Je sens le mal de tête constant glisser hors de ma tête. Il est remplacé par une sensation d'esprit embrumé.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_33",
+          "originalText": "<color=perversion>Mmnhh.. Much...</color>",
+          "text": "<color=perversion>Mmnhh.. Beaucoup...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_34",
+          "originalText": "Our friend here told me all about you..~ ",
+          "text": "Notre ami ici m'a tout dit sur toi..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_35",
+          "originalText": "<color=perversion>Mhh.. I-.. Did he?</color>",
+          "text": "<color=perversion>Mhh.. Je-.. Il l'a fait ?</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_36",
+          "originalText": "Seems like you enjoy the effects of our product quite a lot..~",
+          "text": "On dirait que tu apprécies beaucoup les effets de notre produit..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_37",
+          "originalText": "<color=perversion>The-.. It's-.. Mhh.. Headache..</color>",
+          "text": "<color=perversion>Le-.. C'est-.. Mhh.. Mal de tête..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_38",
+          "originalText": "It doesn't just help against the headache, ehehe.. I doubt Peitho would be interested in that.. It makes you.. Desire..~",
+          "text": "Ça n'aide pas seulement contre le mal de tête, ehehe.. Je doute que Peitho soit intéressé par ça.. Ça te rend.. Désireuse..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_39",
+          "originalText": "<color=perversion>Peitho-..? Desire... Mnhh...</color>",
+          "text": "<color=perversion>Peitho-..? Désir... Mnhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_40",
+          "originalText": "<i>He moves my hand to my mouth, making me take another pull.",
+          "text": "<i>Il me met la main à la bouche, me faisant prendre une autre bouffée.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_41",
+          "originalText": "That's right..~ You can feel it, can't you..~",
+          "text": "C'est ça..~ Tu peux le sentir, n'est-ce pas..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_42",
+          "originalText": "<color=perversion>I-.. Hhh...</color>",
+          "text": "<color=perversion>Je-.. Hhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_43",
+          "originalText": "You should sit down, hehehe..~",
+          "text": "Tu devrais t'asseoir, hehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_44",
+          "originalText": "<color=perversion>Right...</color>",
+          "text": "<color=perversion>D'accord...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_45",
+          "originalText": "<i>I sit down on the dirt below me, leaning my back against the cold concrete wall.",
+          "text": "<i>Je m'assois sur la terre sous moi, appuyant mon dos contre le mur de béton froid.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_46",
+          "originalText": "<i>The men step closer. Two of them pull my legs and arms up against the wall behind me. A third one uses tape to open my pussy wide.",
+          "text": "<i>Les hommes s'approchent. Deux d'entre eux tirent mes jambes et mes bras contre le mur derrière moi. Un troisième utilise du ruban adhésif pour ouvrir ma chatte en grand.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_47",
+          "originalText": "<color=perversion>Mnnhh...</color>",
+          "text": "<color=perversion>Mnnhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_48",
+          "originalText": "Time to give our future prostitute a testdrive, ehehe..~",
+          "text": "Il est temps de faire un essai à notre future prostituée, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_49",
+          "originalText": "Look at that, hehehe.. The drugs have relaxed her so much that her ass is gaping by itself.. She's truly special..",
+          "text": "Regardez ça, hehehe.. Les drogues l'ont tellement détendue que son cul s'ouvre tout seul.. Elle est vraiment spéciale..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_50",
+          "originalText": "<color=perversion>Fhhh... </color>",
+          "text": "<color=perversion>Fhhh... </color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_51",
+          "originalText": "Let's see, ehehe...~",
+          "text": "Voyons voir, ehehe...~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_54",
+          "originalText": "<color=perversion>Mnhaaaaa..!! Fghhh...!</color>",
+          "text": "<color=perversion>Mnhaaaaa..!! Fghhh...!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_52",
+          "originalText": "That's perfect, ehehe..~",
+          "text": "C'est parfait, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_53",
+          "originalText": "<color=perversion>Fhuuuckkk... Mnnhhhh..!</color>",
+          "text": "<color=perversion>Putain... Mnnhhhh..!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_55",
+          "originalText": "Good that we came prepared, ehehehe...~",
+          "text": "Heureusement que nous sommes venus préparés, ehehehe...~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_56",
+          "originalText": "<color=perversion>No..! don- s-stoph.. Plea.. Mnghhh..</color>",
+          "text": "<color=perversion>Non..! ne- s-arrête.. S'il te plaît.. Mnghhh..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_57",
+          "originalText": "Don't worry, we haven't even started yet, ehehe..~",
+          "text": "Ne t'inquiète pas, nous n'avons même pas encore commencé, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_58",
+          "originalText": "<color=perversion>Ghhaaaa...!!!!</color>",
+          "text": "<color=perversion>Ghhaaaa...!!!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_59",
+          "originalText": "Hehehe, she just needs a few pulls and she's desperate to get her asshole widened. She will do great, I'm telling you.",
+          "text": "Hehehe, elle n'a besoin que de quelques bouffées et elle est désespérée d'avoir son trou de balle élargi. Elle fera des merveilles, je te le dis.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_60",
+          "originalText": "Let's see how far we can bring her, ehehe..~",
+          "text": "Voyons jusqu'où nous pouvons la mener, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_61",
+          "originalText": "<color=perversion>Mhaa..?!</color>",
+          "text": "<color=perversion>Mhaa..?!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_62",
+          "originalText": "We'll make you go crazy with lust, ehehe..~",
+          "text": "Nous te rendrons folle de luxure, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_63",
+          "originalText": "<color=perversion><size=60>Mhaaaa!!! Fghhh!!</size></color>",
+          "text": "<color=perversion><size=60>Mhaaaa!!! Fghhh!!</size></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_64",
+          "originalText": "Why don't you go ahead and make her quiet down a little? Her open mouth is much more useful that way, ehehe..~",
+          "text": "Pourquoi ne pas la faire se calmer un peu ? Sa bouche ouverte est bien plus utile comme ça, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_65",
+          "originalText": "Of course, boss. Open up, slut!",
+          "text": "Bien sûr, patron. Ouvre, salope !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_66",
+          "originalText": "<i>Unwilling to resist, I open my mouth wide, unconciously stretching my tongue out.</i>",
+          "text": "<i>Incapable de résister, j'ouvre grand la bouche, étirant inconsciemment ma langue.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_67",
+          "originalText": "Yess... Her customers will love her, hehehe..",
+          "text": "Oui... Ses clients l'adoreront, hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_68",
+          "originalText": "<color=perversion>Mpgh..! Mnrgnnn..</color>",
+          "text": "<color=perversion>Mpgh..! Mnrgnnn..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_69",
+          "originalText": "Be quiet and pay for your drugs already, fuckmeat!",
+          "text": "Tais-toi et paie tes drogues, putain de viande !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_70",
+          "originalText": "Much better, ehehe..~",
+          "text": "Beaucoup mieux, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_71",
+          "originalText": "And now for the real fun..~",
+          "text": "Et maintenant, place au vrai plaisir..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_72",
+          "originalText": "<color=perversion>MRNGMNN..!!!</color>",
+          "text": "<color=perversion>MRNGMNN..!!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_73",
+          "originalText": "Her pussy is just as good as it looks, ehehe..~",
+          "text": "Sa chatte est aussi bonne qu'elle en a l'air, hehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_74",
+          "originalText": "<color=perversion>Mmmnnnnngggg...!!</color>",
+          "text": "<color=perversion>Mmmnnnnngggg...!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_75",
+          "originalText": "So is her pretty face, hehehe..",
+          "text": "Tout comme son joli visage, hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_76",
+          "originalText": "Time to get my pay then..",
+          "text": "Il est temps de toucher ma paie alors..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_77",
+          "originalText": "<color=perversion>Gmmmnnn...!</color>",
+          "text": "<color=perversion>Gmmmnnn...!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_78",
+          "originalText": "Ahh, fuck, there we go..!",
+          "text": "Ahh, putain, on y va..!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_79",
+          "originalText": "<color=perversion><size=65>MGNNMNN!! GRMNMNNN!!</size></color>",
+          "text": "<color=perversion><size=65>MGNNMNN!! GRMNMNNN!!</size></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_80",
+          "originalText": "That's right, slut..! Let it all out.. You <b>love</b> getting fucked while all drugged up, ehehe..~",
+          "text": "C'est ça, salope..! Laisse tout sortir.. Tu <b>adores</b> te faire baiser quand tu es droguée, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_81",
+          "originalText": "Thank us for getting you high, slut!",
+          "text": "Remercie-nous de t'avoir défoncée, salope !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_82",
+          "originalText": "<size=70><color=perversion>Mghaaaaa.. Tha-..! Fhaa..!! Thank youuu..!!!</color></size>",
+          "text": "<size=70><color=perversion>Mghaaaaa.. Mer-..! Fhaa..!! Merciii..!!!</color></size>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_83",
+          "originalText": "Fuck, not so loud, fucking slut!",
+          "text": "Putain, pas si fort, putain de salope !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_84",
+          "originalText": "Don't you worry about that, ehehe.. The guards enjoy their free whores too much to dare to go after me..~",
+          "text": "Ne t'inquiète pas pour ça, hehehe.. Les gardes aiment trop leurs putes gratuites pour oser me poursuivre..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_85",
+          "originalText": "Ohh.. Then we'll be here for a long time, slut, hehehe..",
+          "text": "Ohh.. Alors nous serons ici pour longtemps, salope, hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_86",
+          "originalText": "<color=perversion>Ghhhmmnnn.. Fgmmm...!</color>",
+          "text": "<color=perversion>Ghhhmmnnn.. Fgmmm...!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_87",
+          "originalText": "Tell us how much you love getting fucked while drugged, slut!",
+          "text": "Dis-nous à quel point tu aimes te faire baiser quand tu es droguée, salope !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_88",
+          "originalText": "<size=80><color=perversion>Yes..!! Fuck me more..!! Fuck me! Fuck me! Fuck me!!</color></size>",
+          "text": "<size=80><color=perversion>Oui..!! Baise-moi plus..!! Baise-moi ! Baise-moi ! Baise-moi !!</color></size>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_89",
+          "originalText": "<color=perversion><size=80>Your cocks feel so good!! Fuck my slutty brains ou-</size></color>",
+          "text": "<color=perversion><size=80>Tes bites sont si bonnes !! Baise mes putains de cerveaux-</size></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_90",
+          "originalText": "She's so desperate, ehehe.. She will make a fine prostitute..",
+          "text": "Elle est tellement désespérée, hehehe.. Elle fera une excellente prostituée..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_91",
+          "originalText": "What about her badge?",
+          "text": "Et son badge ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_92",
+          "originalText": "Klaus will not stand in the way of it, trust me, ehehe..~",
+          "text": "Klaus ne s'y opposera pas, crois-moi, hehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_93",
+          "originalText": "Heard that, slut? We're gonna make you a real prostitute!",
+          "text": "Tu as entendu ça, salope ? On va faire de toi une vraie prostituée !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_94",
+          "originalText": "<color=perversion><size=80>Fuck me! Fuck me!!</size></color>",
+          "text": "<color=perversion><size=80>Baise-moi ! Baise-moi !!</size></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_95",
+          "originalText": "Hehehe, she's all gone..~",
+          "text": "Hehehe, elle est complètement partie..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_96",
+          "originalText": "Perfect, ehehe..~",
+          "text": "Parfait, ehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_97",
+          "originalText": "<i>The men take turns on my over the course of the night.</i>",
+          "text": "<i>Les hommes se relaient sur moi au cours de la nuit.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_98",
+          "originalText": "<i>They push the device into my mouth every so often, making me draw on it to stay drugged.</i>",
+          "text": "<i>Ils me poussent l'appareil dans la bouche de temps en temps, me faisant tirer dessus pour rester droguée.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_99",
+          "originalText": "<i>They spit on me, cum on me and inside of me.</i>",
+          "text": "<i>Ils me crachent dessus, jouissent sur moi et à l'intérieur de moi.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_100",
+          "originalText": "<i>Some of them wear condoms, others don't.</i>",
+          "text": "<i>Certains portent des préservatifs, d'autres non.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_101",
+          "originalText": "<i>After many hours of ravaging, they made a quivering mess of me.</i>",
+          "text": "<i>Après de nombreuses heures de ravages, ils ont fait de moi un désordre tremblant.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_102",
+          "originalText": "<color=perversion>Fhaaaaaaa....</color>",
+          "text": "<color=perversion>Fhaaaaaaa....</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_103",
+          "originalText": "Should we take her with us, boss?",
+          "text": "Devrions-nous l'emmener avec nous, patron ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_104",
+          "originalText": "I'm not touching that filthy fuckmeat, hahaha.",
+          "text": "Je ne touche pas à cette sale viande à baiser, hahaha.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_105",
+          "originalText": "She'll come to us.. Trust me, ehehe..~",
+          "text": "Elle viendra à nous.. Crois-moi, hehehe..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_106",
+          "originalText": "<i>The men leave.</i>",
+          "text": "<i>Les hommes partent.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_107",
+          "originalText": "<color=perversion>Mnnghhh...</color>",
+          "text": "<color=perversion>Mnnghhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_108",
+          "originalText": "<i>I slowly drift into sleep...",
+          "text": "<i>Je m'endors lentement...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_109",
+          "originalText": "<i>Hours later...",
+          "text": "<i>Quelques heures plus tard...",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley Daytime After Initial",
+      "guid": "1b75e3a2e696ed741970a336ed357a92",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(They don't seem to be here during the day...)</i>",
+          "text": "<i>(Ils ne semblent pas être ici pendant la journée...)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley dont wear guard armor",
+      "guid": "a91d2682ca8b04945a162263f13b9ea8",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>(This doesn't look like the right place to show up as a guard... )</i>",
+          "text": "<i>(Ça ne ressemble pas au bon endroit pour se présenter en tant que garde...)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "DarkAlley_04",
+      "guid": "aed74e7544339274ba222ca05b7cf850",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "There you are.",
+          "text": "Te voilà.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Hey.. Do you have some..?",
+          "text": "Hé.. Tu en as..?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "Our boss does, hehehe. You should come see him.",
+          "text": "Notre patron en a, hehehe. Tu devrais venir le voir.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "Your.. Boss?",
+          "text": "Ton.. Patron ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "He's taken interest in you the last time we met, hehehe.",
+          "text": "Il s'est intéressé à toi la dernière fois que nous nous sommes rencontrés, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<i>(Interest in me..?)</i>",
+          "text": "<i>(Intérêt pour moi..?)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "<i>(Guh..!!!)</i>",
+          "text": "<i>(Guh..!!!)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "<i>(The headache is not letting off.. I need some..)</i>",
+          "text": "<i>(Le mal de tête ne me lâche pas.. J'en ai besoin..)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "Come with me, I'll bring you to him. He has what you want, hehehe.",
+          "text": "Viens avec moi, je t'emmènerai le voir. Il a ce que tu veux, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "R-.. right..",
+          "text": "D-.. d'accord..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "<i>(What am I getting into again...)</i>",
+          "text": "<i>(Dans quoi est-ce que je m'embarque encore...)</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley - First Day - 1",
+      "guid": "ced7ccdcd9e1ed049982cbd02ae6b18a",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>Dispite knowing what happened the last time I visited this part of town, I can't keep myself from going back.</i>",
+          "text": "<i>Malgré avoir su ce qui s'était passé la dernière fois que j'ai visité cette partie de la ville, je ne peux m'empêcher d'y retourner.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>(Maybe he's not here yet.. I should just leave...)</i>",
+          "text": "<i>(Peut-être qu'il n'est pas encore là.. Je devrais juste partir...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<i>(I spot used condoms, dirty needles and a burnt spoon on the floor.)</i>",
+          "text": "<i>(J'aperçois des préservatifs usagés, des aiguilles sales et une cuillère brûlée par terre.)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<i>(That's-...! <b>Drugs</b>?!)</i>",
+          "text": "<i>(C'est-...! Des <b>drogues</b> ?!)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "<i>(I-.. I should get out of here..)</i>",
+          "text": "<i>(Je-.. Je devrais partir d'ici..)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "Hello... <b><i>Jenna</i></b>.",
+          "text": "Bonjour... <b><i>Jenna</i></b>.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "H-hey..!",
+          "text": "H-hey..!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "Looks like you couldn't stay away, ehehe..",
+          "text": "On dirait que tu n'as pas pu rester loin, hehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "...",
+          "text": "...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "<i>He pulls out a pack of cigarettes and starts smoking one of them.</i>",
+          "text": "<i>Il sort un paquet de cigarettes et en allume une.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "Mmh.. Just what I needed.",
+          "text": "Mmh.. Juste ce dont j'avais besoin.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "<i>The unpleasant smell of the burning cigarette fills the alley, as he walks up to me.</i>",
+          "text": "<i>L'odeur désagréable de la cigarette brûlante emplit l'allée, tandis qu'il s'approche de moi.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "Take a pull.",
+          "text": "Prends une bouffée.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "<i>He holds the cigarette in front of my face.</i>",
+          "text": "<i>Il tient la cigarette devant mon visage.</i>",
+          "Choices": [
+            {
+              "choiceId": "Take",
+              "originalText": "<color=perversion>Take a pull from the cigarette.</color>",
+              "text": "<color=perversion>Prendre une bouffée de la cigarette.</color>"
+            },
+            {
+              "choiceId": "GetOut",
+              "originalText": "Push him aside and leave.",
+              "text": "Le pousser et partir."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark Alley - First Day - 2",
+      "guid": "f5b85cfff1cd9144fb9d8ae8282d42aa",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>My conscience makes me almost instinctively inch back. And yet...</i>",
+          "text": "<i>Ma conscience me fait reculer presque instinctivement. Et pourtant...</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<i>The thought of doing something so wrong, so against my beliefs about what's right and wrong, makes my heart race.</i>",
+          "text": "<i>La pensée de faire quelque chose de si mal, si contraire à mes convictions sur ce qui est bien et mal, fait battre mon cœur.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<color=perversion><size=30>O-okay..</size></color>",
+          "text": "<color=perversion><size=30>O-okay..</size></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<i>I close my lips around the cigarette and knowingly inhale the harmful smoke.</i>",
+          "text": "<i>Je ferme mes lèvres autour de la cigarette et inhale sciemment la fumée nocive.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "<b>Ack..! Archgh!!</b>",
+          "text": "<b>Ack..! Archgh!!</b>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "Hahahaha. Well well well, Jenna. There goes your first pull on a cigarette. And that in a place like this. How fitting.",
+          "text": "Hahahaha. Eh bien, eh bien, Jenna. Voilà ta première bouffée de cigarette. Et ça dans un endroit comme celui-ci. Comme c'est approprié.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "Gah-...",
+          "text": "Gah-...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "Seems like you haven't been a bad girl before. And yet, here you are.",
+          "text": "On dirait que tu n'as jamais été une mauvaise fille avant. Et pourtant, te voilà.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "<i>(My first cigarette... It tastes so bad... This is so... <b><color=perversion>wrong</color></b>...)</i>",
+          "text": "<i>(Ma première cigarette... Ça a si mauvais goût... C'est tellement... <b><color=perversion>mal</color></b>...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "Say \"thank you\". I shared my cig with you after all.",
+          "text": "Dis « merci ». J'ai partagé ma cigarette avec toi après tout.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "<color=perversion>Thank you...</color>",
+          "text": "<color=perversion>Merci...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "<i><color=perversion>(It was so bad, but-... I-...)</color></i>",
+          "text": "<i><color=perversion>(C'était tellement mauvais, mais-... Je-...)</color></i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "You want more, hmm? I can see your eyes locked onto my cigarette, hehehe. Come on, Jenna, <b>Say it</b>.",
+          "text": "Tu en veux plus, hmm ? Je vois tes yeux fixés sur ma cigarette, hehehe. Allez, Jenna, <b>Dis-le</b>.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "<color=perversion>I-.. I want.. <b>more</b>...</color>",
+          "text": "<color=perversion>Je-.. Je veux.. <b>plus</b>...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "Cigarettes are hard to come by around here. Get on your knees and I'll think about it.",
+          "text": "Les cigarettes sont rares par ici. Mets-toi à genoux et j'y penserai.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "<i><color=perversion>(So <b>wrong</b>...)</color></i>",
+          "text": "<i>(Tellement <b>mal</b>...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "<i>He holds the cigarette in front of his crotch.</i>",
+          "text": "<i>Il tient la cigarette devant son entrejambe.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "Come on, Jenna. It's time to stop being <b>boring</b>. We both know you <b>want</b> this.",
+          "text": "Allez, Jenna. Il est temps d'arrêter d'être <b>ennuyeuse</b>. Nous savons toutes les deux que tu <b>veux</b> ça.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "<i><color=perversion>(I don't want to be <b>boring</b>... I <b>want</b>-...)</color></i>",
+          "text": "<i>(Je ne veux pas être <b>ennuyeuse</b>... Je <b>veux</b>-...)</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "You better <b>hurry</b>. It's about to go out and I won't light it back up.",
+          "text": "Tu ferais mieux de te <b>dépêcher</b>. Elle est sur le point de s'éteindre et je ne la rallumerai pas.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp1_Cum",
+      "guid": "06950275815668e41873117498c87157",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Why don't you sit down with us, girl?",
+          "text": "Pourquoi ne t'assieds-tu pas avec nous, ma fille ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "No thanks.",
+          "text": "Non merci.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "You're missing out.",
+          "text": "Tu manques quelque chose.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp2_Cum",
+      "guid": "45c55fcc4c0f34b4286c5f5931297adc",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Well well, you could have had fun with us two as well, girl.",
+          "text": "Eh bien, eh bien, tu aurais pu t'amuser avec nous deux aussi, ma fille.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Mhm...",
+          "text": "Mhm...",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp2_Drunk",
+      "guid": "bc6c09aae44bf7e45874532ef922fe11",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Already drunk, huh?",
+          "text": "Déjà ivre, hein ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "I'm not drunk!",
+          "text": "Je ne suis pas ivre !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "Right...",
+          "text": "D'accord...",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp2_Ripped",
+      "guid": "6f857c1d1ead84b458e070f413d05529",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "With your ripped clothes, you look like you've just been robbed... Hope they didn't leave it at that, hehe.",
+          "text": "Avec tes vêtements déchirés, on dirait que tu viens d'être volée... J'espère qu'ils ne se sont pas arrêtés là, hehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "That's not what happened!",
+          "text": "Ce n'est pas ce qui s'est passé !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp3",
+      "guid": "5ffb9c40895864e4294c96e177151fbc",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "With your looks you should get work here. Wouldn't mind watching your ass walk around here more often.",
+          "text": "Avec ton look, tu devrais trouver du travail ici. Ça ne me dérangerait pas de voir ton cul se promener plus souvent par ici.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Sure.",
+          "text": "Bien sûr.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp3_Cum",
+      "guid": "ecf77ae6703bf144682a2e155c776c9e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Haha, looks like you took the center stall in the Bathroom.",
+          "text": "Haha, on dirait que tu as pris la cabine du milieu dans la salle de bain.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "...",
+          "text": "...",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp3_Drunk",
+      "guid": "2939c6a2eed3c484f87325e27fed7d0e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>He reaches out to grab my ass, squeezing it tightly.</i>",
+          "text": "<i>Il tend la main pour me saisir le cul, le serrant fermement.</i>",
+          "Choices": [
+            {
+              "choiceId": "LetHim",
+              "originalText": "Let him have his way.",
+              "text": "Le laisser faire."
+            },
+            {
+              "choiceId": "GetAway",
+              "originalText": "Get away from him.",
+              "text": "S'éloigner de lui."
+            }
+          ]
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Heey! Hands off the merchandise, bud!",
+          "text": "Hé ! Mains en l'air, mon pote !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp3_Drunk_LetHim",
+      "guid": "123358e7cabc2904aa8a9ccc842e05c4",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>I press my ass against his hand, letting him enjoy my curves.</i>",
+          "text": "<i>Je presse mon cul contre sa main, le laissant profiter de mes courbes.</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_Hookup_04",
+      "guid": "7a7b8e1925b399742a1f114631745422",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "So you're the one that wants to get fucked, huh?",
+          "text": "Alors c'est toi qui veux te faire baiser, hein ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<color=perversion>...</color>",
+          "text": "<color=perversion>...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "A seemingly high class whore like you wants to get fucked next to the dumpster in a dirty dark alley?",
+          "text": "Une pute d'apparence de haute classe comme toi veut se faire baiser à côté de la benne à ordures dans une ruelle sombre et sale ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<color=perversion><i>(Yesss...)</i></color>",
+          "text": "<color=perversion><i>(Ouiii...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "<i>Too embarrassed to speak out the answer, I sink to my knees and start unbuckling his belt.</i>",
+          "text": "<i>Trop gênée pour prononcer la réponse, je m'agenouille et commence à déboucler sa ceinture.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<color=perversion>It's-.. cheaper..!</color>",
+          "text": "<color=perversion>C'est-.. moins cher..!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "It's nasty!",
+          "text": "C'est dégueulasse !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "<color=perversion>J-just shush...</color>",
+          "text": "<color=perversion>J-juste chut...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "<i>As I pull down his pants, the strong scent of his cock enters my senses. It only turns me on more.",
+          "text": "<i>Alors que je lui baisse le pantalon, l'odeur forte de son pénis envahit mes sens. Cela ne fait que m'exciter davantage.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "<color=perversion><i>(I want to taste it...)</i></color>",
+          "text": "<color=perversion><i>(Je veux le goûter...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "Fuck, you're really desperate, aren't you?",
+          "text": "Putain, tu es vraiment désespérée, n'est-ce pas ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "<color=perversion><i>(Mmmhhh Cockk...)</i></color>",
+          "text": "<color=perversion><i>(Mmmhhh Pénis...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "You just couldn't wait to get your knees dirty on the ground to suck some random cock... What a whore.",
+          "text": "Tu ne pouvais pas attendre de te salir les genoux par terre pour sucer une bite au hasard... Quelle pute.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "<color=perversion>Whore...</color>",
+          "text": "<color=perversion>Pute...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "<color=perversion>Mmmnnnhhh...</color>",
+          "text": "<color=perversion>Mmmnnnhhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "<color=perversion><i>(So naughty...)</i></color>",
+          "text": "<color=perversion><i>(Tellement coquine...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "<color=perversion><i>(I'm too horny.. I want <b>more</b>.. I want-.. I want him to fuck me...)</i></color>",
+          "text": "<color=perversion><i>(Je suis trop excitée.. Je veux <b>plus</b>.. Je veux-.. Je veux qu'il me baise...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "<i>I fall backwards to the ground, pulling him down in between my legs.</i>",
+          "text": "<i>Je tombe en arrière sur le sol, le tirant entre mes jambes.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "<color=perversion>Just-.. Fuck me-.. Please..!</color>",
+          "text": "<color=perversion>Juste-.. Baise-moi-.. S'il te plaît..!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "You're fucking crazy, slut.",
+          "text": "Tu es putain de folle, salope.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_20",
+          "originalText": "<color=perversion>Just-.. be quiet-.. and fuck me..!</color>",
+          "text": "<color=perversion>Juste-.. tais-toi-.. et baise-moi..!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_21",
+          "originalText": "<color=perversion>Mmmhhhnnn-.. Yesss...</color>",
+          "text": "<color=perversion>Mmmhhhnnn-.. Ouiii...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_22",
+          "originalText": "<color=perversion>Fuck this filthy whore..!! ♥</color>",
+          "text": "<color=perversion>Baise cette sale pute..!! ♥</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_23",
+          "originalText": "<color=perversion>Yes! Yes! Yes! ♥</color>",
+          "text": "<color=perversion>Oui ! Oui ! Oui ! ♥</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_24",
+          "originalText": "<color=perversion>MHaaa..!! Fuck me harder..! Please!! ♥</color>",
+          "text": "<color=perversion>MHaaa..!! Baise-moi plus fort..! S'il te plaît!! ♥</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_25",
+          "originalText": "<color=perversion>Gaahh!! Yes!! Yes!! ♥ Yess!!!</color>",
+          "text": "<color=perversion>Gaahh!! Oui!! Oui!! ♥ Ouiii!!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_26",
+          "originalText": "<color=perversion>Just like that! Fuck my filthy whore pussy, yes!! ♥</color>",
+          "text": "<color=perversion>Juste comme ça ! Baise ma sale chatte de pute, oui !! ♥</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_27",
+          "originalText": "Fuck...",
+          "text": "Putain...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_28",
+          "originalText": "<color=perversion>No-..! No no no..! Don't slow down..!</color>",
+          "text": "<color=perversion>Non-..! Non non non..! Ne ralentis pas..!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_29",
+          "originalText": "<color=perversion>Mnnhhh...!! ♥</color>",
+          "text": "<color=perversion>Mnnhhh...!! ♥</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_30",
+          "originalText": "I'm gonna cum like this..!",
+          "text": "Je vais jouir comme ça..!",
+          "Choices": []
+        },
+        {
+          "LineId": "line_31",
+          "originalText": "<color=perversion>Yesss..!! Cum..!! Cum in my filthy whore pussy..!! ♥</color>",
+          "text": "<color=perversion>Ouiii..!! Jouis..!! Jouis dans ma sale chatte de pute..!! ♥</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_32",
+          "originalText": "Fuck fuck fuck!",
+          "text": "Putain putain putain !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_33",
+          "originalText": "<color=perversion><size=70>Yesss..!!! ♥♥♥</color>",
+          "text": "<color=perversion><size=70>Ouiii..!!! ♥♥♥</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_34",
+          "originalText": "Mmmmnnghhhh....",
+          "text": "Mmmmnnghhhh....",
+          "Choices": []
+        },
+        {
+          "LineId": "line_35",
+          "originalText": "<i>He gets up, leaving me lying on the dirty alley floor.</i>",
+          "text": "<i>Il se lève, me laissant allongée sur le sol sale de l'allée.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_36",
+          "originalText": "<color=perversion>He came so much inside me... I can feel it... So filthy and hot... </color>",
+          "text": "<color=perversion>Il a joui tellement en moi... Je peux le sentir... Tellement sale et chaud...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_37",
+          "originalText": "You're something special for sure. Crazy whore.",
+          "text": "Tu es vraiment spéciale. Pute folle.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_38",
+          "originalText": "<color=perversion><i>(I'm such a whore...)</i></color>",
+          "text": "<color=perversion><i>(Je suis une telle pute...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_39",
+          "originalText": "<i>As he walks away, his cum slowly oozes out of my pussy.",
+          "text": "<i>Alors qu'il s'éloigne, son sperme s'écoule lentement de ma chatte.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_40",
+          "originalText": "<color=perversion>Hhhhhh...</color>",
+          "text": "<color=perversion>Hhhhhh...</color>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_Hookup_05",
+      "guid": "2d1ab6f3a13aedc46b2e1881cebb8a22",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "You free, slut?",
+          "text": "Tu es libre, salope ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<color=perversion>I-.. Y-yeah..</color>",
+          "text": "<color=perversion>Je-.. O-oui..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "<color=perversion><i>(He looks like he's about to burst...)</i></color>",
+          "text": "<color=perversion><i>(Il a l'air sur le point d'exploser...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<color=perversion><i>(There must be so much cum......)</i></color>",
+          "text": "<color=perversion><i>(Il doit y avoir tellement de sperme......)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "You'll need to clean it. Looking at how you're running around, that won't be an issue.",
+          "text": "Tu devras le nettoyer. Vu comment tu cours, ça ne posera pas de problème.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<color=perversion><i>(I want it all over me....~)</i></color>",
+          "text": "<color=perversion><i>(Je le veux partout sur moi....~)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "<color=perversion>Huh..? I-.. Whatever.. Let's go.</color>",
+          "text": "<color=perversion>Hein..? Je-.. Peu importe.. Allons-y.</color>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_Hookup_05_Drugboss",
+      "guid": "b8d2999b30f6cc143a8c56c161969b8d",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Welcome back, hehehe...",
+          "text": "Bienvenue de retour, hehehe...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<color=perversion>Hey-...</color>",
+          "text": "<color=perversion>Hé-...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "I've got a very special friend that will require your services today.",
+          "text": "J'ai un ami très spécial qui aura besoin de tes services aujourd'hui.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<color=perversion>Friend..? I-.. Sure, but-.. Can I-..</color>",
+          "text": "<color=perversion>Ami..? Je-.. Bien sûr, mais-.. Puis-je-..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "Hahaha, can't wait to get high, slut?",
+          "text": "Hahaha, tu as hâte de te défoncer, salope ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<color=perversion><i>(H-high...)</i></color>",
+          "text": "<color=perversion><i>(D-défoncée...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "<color=perversion>I did my job..! I just want my... Payment...</color>",
+          "text": "<color=perversion>J'ai fait mon travail..! Je veux juste mon... Paiement...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "You get your payment when I say you do, slut. ",
+          "text": "Tu auras ton paiement quand je le dirai, salope.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "<color=perversion>But I always get it when I come back here after... Well-</color>",
+          "text": "<color=perversion>Mais je l'obtiens toujours quand je reviens ici après... Eh bien-</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "Quiet, filthy slut!",
+          "text": "Silence, sale salope !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "<color=perversion>-...</color>",
+          "text": "-...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "I've heard enough of your moaning. Open your mouth.",
+          "text": "J'en ai assez de tes gémissements. Ouvre ta bouche.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "<i>He grabs a purple ball gag and places it in my mouth, before turning me around and tying my arms behind my back.</i>",
+          "text": "<i>Il prend un bâillon à boule violet et le place dans ma bouche, avant de me retourner et de m'attacher les bras derrière le dos.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "<color=perversion>Mrghnlnmm-..!</color>",
+          "text": "<color=perversion>Mrghnlnmm-..!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "There we go... Finally no more nonsense from your mouth. Just be good and you'll get what you want.",
+          "text": "Voilà... Enfin, plus de bêtises de ta bouche. Sois juste sage et tu auras ce que tu veux.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "As long as <b>she</b> will be happy with you that is, hehe...",
+          "text": "Tant qu'<b>elle</b> sera contente de toi, hehe...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "<color=perversion><i>(She..?)</i></color>",
+          "text": "<color=perversion><i>(Elle..?)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "<i>A woman enters the room behind me.</i>",
+          "text": "<i>Une femme entre dans la pièce derrière moi.</i>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "There you are. Right on time just like always.",
+          "text": "Te voilà. Juste à temps comme toujours.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "Heh... Is that the one?",
+          "text": "Heh... C'est elle ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_20",
+          "originalText": "She is. She was being a greedy slut, so I made sure you could enjoy her without her acting up. She didn't even try to resist, hehehe...",
+          "text": "C'est elle. Elle était une salope avide, alors je me suis assuré que tu puisses en profiter sans qu'elle ne fasse d'histoires. Elle n'a même pas essayé de résister, hehehe...",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Carceburg_Man6_1",
+      "guid": "7c8a664293e0d3a42a434591f0b97d26",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Enough foreplay... Let's get you what you really wanted all along, ehehe..",
+          "text": "Assez de préliminaires... Obtenons ce que tu voulais vraiment depuis le début, ehehe..",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<color=perversion>...</color>",
+          "text": "<color=perversion>...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "You're lighter than I thought.",
+          "text": "Tu es plus légère que je ne le pensais.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<color=perversion>Mnnhhhh~</color>",
+          "text": "<color=perversion>Mnnhhhh~</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "Hehehe, greedy slut...",
+          "text": "Hehehe, salope avide...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "<color=perversion>Mhm...</color>",
+          "text": "<color=perversion>Mhm...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "<color=perversion>Mmmmhhh-</color>",
+          "text": "<color=perversion>Mmmmhhh-</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "Fuck, you feel amazing. Let's speed this up a little.",
+          "text": "Putain, tu es incroyable. Accélérons un peu.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "<color=perversion>W-waaaaaaaaaah-</color>",
+          "text": "<color=perversion>W-waaaaaaaaaah-</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "Ghhh...",
+          "text": "Ghhh...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "<color=perversion>Ahhhh- F-faster, please...</color>",
+          "text": "<color=perversion>Ahhhh- P-plus vite, s'il te plaît...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "Greedy slut!",
+          "text": "Salope avide !",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "<color=perversion>Hghhh-</color>",
+          "text": "<color=perversion>Hghhh-</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "Fuck...",
+          "text": "Putain...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "<color=perversion>Mhh- Ahhh- Yesss!</color>",
+          "text": "<color=perversion>Mhh- Ahhh- Ouiii !</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "Fuck your pussy is good...",
+          "text": "Putain ta chatte est bonne...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "<color=perversion>Fhhaaaa!!</color>",
+          "text": "<color=perversion>Fhhaaaa!!</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "<color=perversion>Ghhhhhh-</color>",
+          "text": "<color=perversion>Ghhhhhh-</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "Ah fuck, I'm gonna cum...",
+          "text": "Ah putain, je vais jouir...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "<color=perversion>Aaaaaaaaaaaagh-</color>",
+          "text": "<color=perversion>Aaaaaaaaaaaagh-</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_20",
+          "originalText": "<color=perversion>Mmmmmhhhhhh-</color>",
+          "text": "<color=perversion>Mmmmmhhhhhh-</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_21",
+          "originalText": "Fuck, you drained me, badgeless slut, hehehe.",
+          "text": "Putain, tu m'as vidé, salope sans badge, hehehe.",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp3_Drunk_LetHim",
+      "guid": "123358e7cabc2904aa8a9ccc842e05c4",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>I press my ass against his hand, letting him enjoy my curves.</i>",
+          "text": "<i>Je presse mon cul contre sa main, le laissant profiter de mes courbes.</i>",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Bar_Visitor_Blurp3_Drunk",
+      "guid": "2939c6a2eed3c484f87325e27fed7d0e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "<i>He reaches out to grab my ass, squeezing it tightly.</i>",
+          "text": "<i>Il tend la main pour me saisir le cul, le serrant fermement.</i>",
+          "Choices": [
+            {
+              "choiceId": "LetHim",
+              "originalText": "Let him have his way.",
+              "text": "Le laisser faire."
+            },
+            {
+              "choiceId": "GetAway",
+              "originalText": "Get away from him.",
+              "text": "S'éloigner de lui."
+            }
+          ]
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "Heey! Hands off the merchandise, bud!",
+          "text": "Hé ! Mains en l'air, mon pote !",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Motel_Shower_AlternativePayment_2_1_1_Scene",
+      "guid": "a92211ec4602e0e47bbbec20a2a3b16e",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Fuck you're hot, hehehe... Lie down for me, will ya.",
+          "text": "Putain tu es chaude, hehehe... Allonge-toi pour moi, veux-tu.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<color=perversion>Right..</color>",
+          "text": "<color=perversion>D'accord..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_2",
+          "originalText": "Good girl~",
+          "text": "Bonne fille~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_21",
+          "originalText": "Mm... That's a nice sight. ",
+          "text": "Mm... C'est une belle vue.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_4",
+          "originalText": "Time to get... <i>down to business</i>, hehehe.",
+          "text": "Il est temps de passer... <i>aux choses sérieuses</i>, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_3",
+          "originalText": "<color=perversion>Okay.. J-just go slow and—</color>",
+          "text": "<color=perversion>D'accord.. J-juste vas-y doucement et—</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_401",
+          "originalText": "Sure, hehehe.",
+          "text": "Bien sûr, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_23",
+          "originalText": "<color=perversion>Ahh~</color>",
+          "text": "<color=perversion>Ahh~</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_5",
+          "originalText": "Mmmhhh...",
+          "text": "Mmmhhh...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_6",
+          "originalText": "<color=perversion>Hhhh-..</color>",
+          "text": "<color=perversion>Hhhh-..</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_7",
+          "originalText": "That ought to warm you up enough, hehehe...",
+          "text": "Ça devrait te réchauffer suffisamment, hehehe...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_8",
+          "originalText": "Mm? Want more, hmm?",
+          "text": "Mm? Tu en veux plus, hmm ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_9",
+          "originalText": "<color=perversion>Ghhh… J-just… Just…</color>",
+          "text": "<color=perversion>Ghhh… J-juste… Juste…</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_10",
+          "originalText": "Just…? Just what?",
+          "text": "Juste…? Juste quoi ?",
+          "Choices": []
+        },
+        {
+          "LineId": "line_11",
+          "originalText": "<color=perversion>Hhhh-... I-.. <size=25>Just do it-...</color>",
+          "text": "<color=perversion>Hhhh-... Je-.. <size=25>Fais-le juste-...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_12",
+          "originalText": "Hehehe",
+          "text": "Hehehe",
+          "Choices": []
+        },
+        {
+          "LineId": "line_13",
+          "originalText": "<color=perversion>Mnnnnhhh…</color>",
+          "text": "<color=perversion>Mnnnnhhh…</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_14",
+          "originalText": "He wasn’t lying, hehehe…",
+          "text": "Il ne mentait pas, hehehe…",
+          "Choices": []
+        },
+        {
+          "LineId": "line_15",
+          "originalText": "<color=perversion>Nhhhh-.. Ghaaa…</color>",
+          "text": "<color=perversion>Nhhhh-.. Ghaaa…</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_16",
+          "originalText": "Nice and tight, just like he promised.. Let’s loosen you up a bit, hehe...",
+          "text": "Agréable et serré, juste comme il l'a promis.. Desserrons-toi un peu, hehe...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_24",
+          "originalText": "...",
+          "text": "...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_17",
+          "originalText": "<color=perversion>O-o-ohhhhhhhhhhhhh~ </color>",
+          "text": "<color=perversion>O-o-ohhhhhhhhhhhhh~ </color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_25",
+          "originalText": "...",
+          "text": "...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_18",
+          "originalText": "I-I’m coming— Aaaaah—",
+          "text": "J-je viens— Aaaaah—",
+          "Choices": []
+        },
+        {
+          "LineId": "line_19",
+          "originalText": "<color=perversion>G-g-ghhh...</color>",
+          "text": "<color=perversion>G-g-ghhh...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_20",
+          "originalText": "...",
+          "text": "...",
+          "Choices": []
+        }
+      ]
+    },
+    {
+      "name": "Motel_Prostitution_Scene_3_1",
+      "guid": "f671c85e89ade1e48b0cda69e65921ef",
+      "Lines": [
+        {
+          "LineId": "line_0",
+          "originalText": "Oh look. The <b>whore</b> is already all naked and ready for me. Can't wait to sell...",
+          "text": "Oh, regarde. La <b>pute</b> est déjà toute nue et prête pour moi. J'ai hâte de vendre...",
+          "Choices": []
+        },
+        {
+          "LineId": "line_1",
+          "originalText": "<color=perversion><i>(Fhhhhhmmmnn...)</i></color>",
+          "text": "<color=perversion><i>(Fhhhhhmmmnn...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_58",
+          "originalText": "There's this toy sir told me to use, I think now is the time for that, ma'am, hehe.. You've had it before..~",
+          "text": "Il y a ce jouet que monsieur m'a dit d'utiliser, je pense que c'est le moment, madame, hehe.. Vous l'avez déjà eu avant..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_59",
+          "originalText": "I wonder if we can make it fit, ma'am..~",
+          "text": "Je me demande si nous pouvons le faire rentrer, madame..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_60",
+          "originalText": "<color=perversion><i>(...)</i></color>",
+          "text": "<color=perversion><i>(...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_61",
+          "originalText": "Mmmmh~ You look so nasty with that plug in your mouth, ma'am..~",
+          "text": "Mmmmh~ Tu as l'air si dégoûtante avec ce bouchon dans ta bouche, madame..~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_62",
+          "originalText": "<color=perversion><i>(...)</i></color>",
+          "text": "<color=perversion><i>(...)</i></color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_63",
+          "originalText": "Hehehe... Looks like our customers enjoyed testing the limits of the new GAG drug.",
+          "text": "Hehehe... On dirait que nos clients ont aimé tester les limites de la nouvelle drogue GAG.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_64",
+          "originalText": "Yes, sir.~ Ma'am seems to enjoy it as well.~",
+          "text": "Oui, monsieur.~ Madame semble aussi apprécier.~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_65",
+          "originalText": "<color=perversion>Grgghgmgnmmn...</color>",
+          "text": "<color=perversion>Grgghgmgnmmn...</color>",
+          "Choices": []
+        },
+        {
+          "LineId": "line_66",
+          "originalText": "Time to gather some advertisement material, hehehe.",
+          "text": "Il est temps de rassembler du matériel publicitaire, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_67",
+          "originalText": "We're gonna make this cow famous, hehehe.",
+          "text": "Nous allons rendre cette vache célèbre, hehehe.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_68",
+          "originalText": "Yes, sir.~ I'll take care of it, hehe~",
+          "text": "Oui, monsieur.~ Je m'en occupe, hehe~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_69",
+          "originalText": "Good. Make sure my cow is well before you prepare the ads.",
+          "text": "Bien. Assurez-vous que ma vache va bien avant de préparer les publicités.",
+          "Choices": []
+        },
+        {
+          "LineId": "line_70",
+          "originalText": "I'll take <b>good</b> care of her, sir.~",
+          "text": "Je prendrai <b>bien</b> soin d'elle, monsieur.~",
+          "Choices": []
+        },
+        {
+          "LineId": "line_71",
+          "originalText": "I'm sure you will, hehehe.",
+          "text": "Je suis sûr que oui, hehehe.",
+          "Choices": []
+        }
+      ]
+    },
+    {
